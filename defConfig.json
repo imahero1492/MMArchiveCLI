@@ -1,0 +1,49 @@
+{
+  "cropBounds": {
+    "4": [15, 3, 77, 64],
+    "4Airship": [0, 0, 85, 127],
+    "4Boat": [4, 0, 92, 64],
+    "9": [23, 29, 108, 149]
+  },
+  "hotaShadowP2P3": [
+    "avgflh", "avlca090", "avlhpn", "avlmhs", "avlmtwl", "avltro", "avlwcsk", "avlwct",
+    "avlwsh", "avmcrwl", "avmgowl", "avmoilpm", "avmswhl", "avshrmit", "avstrblz",
+    "avxamwl", "avxgazeb", "avtglam", "avxgravw", "avxosis0", "avxruins", "avxmspr0",
+    "avchfor0", "aair00", "avlrhl01", "avlrhl02", "avlrhl03", "avlrhl04", "avlrhl05",
+    "avlrhl6", "avlrhl07", "avlbon02", "avlbon03", "avlrws01", "avlrws02", "avlrws03",
+    "avxseee0", "avxprsn1", "avcmetrh", "avlrhl00", "avlrhl06"
+  ],
+  "hotaPalette255To5": [
+    "tpmage", "ch015", "avswplnt", "avxmn7o0", "avxmn6o0", "avxmn9b0", "avxmn10b",
+    "avxmn12b", "avwjugg", "avwtobtw", "avxseec0"
+  ],
+  "keepSelectionPalette": [
+    "ava0037"
+  ],
+  "creaturesWithAttack2": [
+    "Chaos Hydra", "Hydra", "Psychic Elemental", "Magic Elemental", "Manticore", "Scorpicore",
+    "Beholder", "Evil Eye", "Gunslinger", "Bounty Hunter", "Juggernaut", "Rust Dragon",
+    "Faerie Dragon", "Red Dragon", "Green Dragon", "Gold Dragon", "Black Dragon", "Dreadnought"
+  ],
+  "creaturesWithCast": [
+    "Olgoi-Khorkhoi", "Mechanic", "Sentinel Automaton", "Engineer", "Automaton", "Sea Witch",
+    "Sorceress", "Satyr", "Leprechaun", "Greater Basilisk", "Basilisk", "Ogre Mage",
+    "Master Genie", "Storm Elemental", "Magma Elemental", "Energy Elemental", "Ice Elemental",
+    "Vampire Lord", "War Unicorn", "Dread Knight", "Dendroid Soldier", "Cyclops King",
+    "Minotaur King", "Zealot", "Harpy Hag", "Efreeti", "Efreet Sultan"
+  ],
+  "creatureGroupNames": {
+    "0": "Moving", "1": "Mouse Over", "2": "Standing", "3": "Getting Hit", "4": "Defend", "5": "Death",
+    "6": "Unused Death", "7": "Turn Left", "8": "Turn Right", "9": "Turn Left 2", "10": "Turn Right 2",
+    "11": "Attack Up", "12": "Attack Straight", "13": "Attack Down", "14": "Shoot Up", "15": "Shoot Straight",
+    "16": "Shoot Down", "17": "Cast or Attack Up 2", "18": "Cast or Attack Straight 2", "19": "Cast or Attack Down 2",
+    "20": "Start Moving", "21": "Stop Moving"
+  },
+  "mapObjectGroupNames": {
+    "0": "Up", "1": "Up-Right", "2": "Right", "3": "Down-Right", "4": "Down",
+    "5": "Move Up", "6": "Move Up-Right", "7": "Move Right", "8": "Move Down-Right", "9": "Move Down"
+  },
+  "heroGroupNames": {
+    "0": "Standing", "1": "Shuffle", "2": "Failure", "3": "Victory", "4": "Cast"
+  }
+}

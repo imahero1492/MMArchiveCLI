@@ -1,0 +1,15 @@
+*.pyc
+__pycache__
+*.cmd
+*.def
+*.lod
+testing-assets
+testing-output
+temp-extract
+*.webp
+*.bmp
+*.hdl
+*.bik
+*.vid
+test*.py
+*.smk
