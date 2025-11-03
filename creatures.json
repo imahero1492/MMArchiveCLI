@@ -1,0 +1,1252 @@
+{
+    "sod.pikeman": {
+        "name": "Pikeman",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.halberdier"
+        ],
+        "wikipage": "Pikeman and Halberdier"
+    },
+    "sod.halberdier": {
+        "name": "Halberdier",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Pikeman and Halberdier"
+    },
+    "sod.archer": {
+        "name": "Archer",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.marksman"
+        ],
+        "wikipage": "Archer and Marksman"
+    },
+    "sod.marksman": {
+        "name": "Marksman",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Archer and Marksman"
+    },
+    "sod.griffin": {
+        "name": "Griffin",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.royalGriffin"
+        ],
+        "wikipage": "Griffin and Royal Griffin"
+    },
+    "sod.royalGriffin": {
+        "name": "Royal Griffin",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Griffin and Royal Griffin"
+    },
+    "sod.swordsman": {
+        "name": "Swordsman",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.crusader"
+        ],
+        "wikipage": "Swordsman and Crusader"
+    },
+    "sod.crusader": {
+        "name": "Crusader",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Swordsman and Crusader"
+    },
+    "sod.monk": {
+        "name": "Monk",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.zealot"
+        ],
+        "wikipage": "Monk and Zealot"
+    },
+    "sod.zealot": {
+        "name": "Zealot",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Monk and Zealot"
+    },
+    "sod.cavalier": {
+        "name": "Cavalier",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.champion"
+        ],
+        "wikipage": "Cavalier and Champion"
+    },
+    "sod.champion": {
+        "name": "Champion",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Cavalier and Champion"
+    },
+    "sod.angel": {
+        "name": "Angel",
+        "faction": "sod.castle",
+        "upgrades": [
+            "sod.archangel"
+        ],
+        "wikipage": "Angel and Archangel"
+    },
+    "sod.archangel": {
+        "name": "Archangel",
+        "faction": "sod.castle",
+        "upgrades": [],
+        "wikipage": "Angel and Archangel"
+    },
+    "sod.centaur": {
+        "name": "Centaur",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.centaurCaptain"
+        ],
+        "wikipage": "Centaur and Centaur Captain"
+    },
+    "sod.centaurCaptain": {
+        "name": "Centaur Captain",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Centaur and Centaur Captain"
+    },
+    "sod.dwarf": {
+        "name": "Dwarf",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.battleDwarf"
+        ],
+        "wikipage": "Dwarf and Battle Dwarf"
+    },
+    "sod.battleDwarf": {
+        "name": "Battle Dwarf",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Dwarf and Battle Dwarf"
+    },
+    "sod.woodElf": {
+        "name": "Wood Elf",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.grandElf"
+        ],
+        "wikipage": "Wood Elf and Grand Elf"
+    },
+    "sod.grandElf": {
+        "name": "Grand Elf",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Wood Elf and Grand Elf"
+    },
+    "sod.pegasus": {
+        "name": "Pegasus",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.silverPegasus"
+        ],
+        "wikipage": "Pegasus and Silver Pegasus"
+    },
+    "sod.silverPegasus": {
+        "name": "Silver Pegasus",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Pegasus and Silver Pegasus"
+    },
+    "sod.dendroidGuard": {
+        "name": "Dendroid Guard",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.dendroidSoldier"
+        ],
+        "wikipage": "Dendroid Guard and Dendroid Soldier"
+    },
+    "sod.dendroidSoldier": {
+        "name": "Dendroid Soldier",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Dendroid Guard and Dendroid Soldier"
+    },
+    "sod.unicorn": {
+        "name": "Unicorn",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.warUnicorn"
+        ],
+        "wikipage": "Unicorn and War Unicorn"
+    },
+    "sod.warUnicorn": {
+        "name": "War Unicorn",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Unicorn and War Unicorn"
+    },
+    "sod.greenDragon": {
+        "name": "Green Dragon",
+        "faction": "sod.rampart",
+        "upgrades": [
+            "sod.goldDragon"
+        ],
+        "wikipage": "Green Dragon and Gold Dragon"
+    },
+    "sod.goldDragon": {
+        "name": "Gold Dragon",
+        "faction": "sod.rampart",
+        "upgrades": [],
+        "wikipage": "Green Dragon and Gold Dragon"
+    },
+    "sod.gremlin": {
+        "name": "Gremlin",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.masterGremlin"
+        ],
+        "wikipage": "Gremlin and Master Gremlin"
+    },
+    "sod.masterGremlin": {
+        "name": "Master Gremlin",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Gremlin and Master Gremlin"
+    },
+    "sod.stoneGargoyle": {
+        "name": "Stone Gargoyle",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.obsidianGargoyle"
+        ],
+        "wikipage": "Stone Gargoyle and Obsidian Gargoyle"
+    },
+    "sod.obsidianGargoyle": {
+        "name": "Obsidian Gargoyle",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Stone Gargoyle and Obsidian Gargoyle"
+    },
+    "sod.stoneGolem": {
+        "name": "Stone Golem",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.ironGolem"
+        ],
+        "wikipage": "Stone Golem and Iron Golem"
+    },
+    "sod.ironGolem": {
+        "name": "Iron Golem",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Stone Golem and Iron Golem"
+    },
+    "sod.mage": {
+        "name": "Mage",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.archMage"
+        ],
+        "wikipage": "Mage and Arch Mage"
+    },
+    "sod.archMage": {
+        "name": "Arch Mage",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Mage and Arch Mage"
+    },
+    "sod.genie": {
+        "name": "Genie",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.masterGenie"
+        ],
+        "wikipage": "Genie and Master Genie"
+    },
+    "sod.masterGenie": {
+        "name": "Master Genie",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Genie and Master Genie"
+    },
+    "sod.naga": {
+        "name": "Naga",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.nagaQueen"
+        ],
+        "wikipage": "Naga and Naga Queen"
+    },
+    "sod.nagaQueen": {
+        "name": "Naga Queen",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Naga and Naga Queen"
+    },
+    "sod.giant": {
+        "name": "Giant",
+        "faction": "sod.tower",
+        "upgrades": [
+            "sod.titan"
+        ],
+        "wikipage": "Giant and Titan"
+    },
+    "sod.titan": {
+        "name": "Titan",
+        "faction": "sod.tower",
+        "upgrades": [],
+        "wikipage": "Giant and Titan"
+    },
+    "sod.skeleton": {
+        "name": "Skeleton",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.skeletonWarrior"
+        ],
+        "wikipage": "Skeleton and Skeleton Warrior"
+    },
+    "sod.skeletonWarrior": {
+        "name": "Skeleton Warrior",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Skeleton and Skeleton Warrior"
+    },
+    "sod.walkingDead": {
+        "name": "Walking Dead",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.zombie"
+        ],
+        "wikipage": "Walking Dead and Zombie"
+    },
+    "sod.zombie": {
+        "name": "Zombie",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Walking Dead and Zombie"
+    },
+    "sod.wight": {
+        "name": "Wight",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.wraith"
+        ],
+        "wikipage": "Wight and Wraith"
+    },
+    "sod.wraith": {
+        "name": "Wraith",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Wight and Wraith"
+    },
+    "sod.vampire": {
+        "name": "Vampire",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.vampireLord"
+        ],
+        "wikipage": "Vampire and Vampire Lord"
+    },
+    "sod.vampireLord": {
+        "name": "Vampire Lord",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Vampire and Vampire Lord"
+    },
+    "sod.lich": {
+        "name": "Lich",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.powerLich"
+        ],
+        "wikipage": "Lich and Power Lich"
+    },
+    "sod.powerLich": {
+        "name": "Power Lich",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Lich and Power Lich"
+    },
+    "sod.blackKnight": {
+        "name": "Black Knight",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.dreadKnight"
+        ],
+        "wikipage": "Black Knight and Dread Knight"
+    },
+    "sod.dreadKnight": {
+        "name": "Dread Knight",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Black Knight and Dread Knight"
+    },
+    "sod.boneDragon": {
+        "name": "Bone Dragon",
+        "faction": "sod.necropolis",
+        "upgrades": [
+            "sod.ghostDragon"
+        ],
+        "wikipage": "Bone Dragon and Ghost Dragon"
+    },
+    "sod.ghostDragon": {
+        "name": "Ghost Dragon",
+        "faction": "sod.necropolis",
+        "upgrades": [],
+        "wikipage": "Bone Dragon and Ghost Dragon"
+    },
+    "sod.troglodyte": {
+        "name": "Troglodyte",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.infernalTroglodyte"
+        ],
+        "wikipage": "Troglodyte and Infernal Troglodyte"
+    },
+    "sod.infernalTroglodyte": {
+        "name": "Infernal Troglodyte",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Troglodyte and Infernal Troglodyte"
+    },
+    "sod.harpy": {
+        "name": "Harpy",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.harpyHag"
+        ],
+        "wikipage": "Harpy and Harpy Hag"
+    },
+    "sod.harpyHag": {
+        "name": "Harpy Hag",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Harpy and Harpy Hag"
+    },
+    "sod.beholder": {
+        "name": "Beholder",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.evilEye"
+        ],
+        "wikipage": "Beholder and Evil Eye"
+    },
+    "sod.evilEye": {
+        "name": "Evil Eye",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Beholder and Evil Eye"
+    },
+    "sod.medusa": {
+        "name": "Medusa",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.medusaQueen"
+        ],
+        "wikipage": "Medusa and Medusa Queen"
+    },
+    "sod.medusaQueen": {
+        "name": "Medusa Queen",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Medusa and Medusa Queen"
+    },
+    "sod.minotaur": {
+        "name": "Minotaur",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.minotaurKing"
+        ],
+        "wikipage": "Minotaur and Minotaur King"
+    },
+    "sod.minotaurKing": {
+        "name": "Minotaur King",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Minotaur and Minotaur King"
+    },
+    "sod.manticore": {
+        "name": "Manticore",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.scorpicore"
+        ],
+        "wikipage": "Manticore and Scorpicore"
+    },
+    "sod.scorpicore": {
+        "name": "Scorpicore",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Manticore and Scorpicore"
+    },
+    "sod.redDragon": {
+        "name": "Red Dragon",
+        "faction": "sod.dungeon",
+        "upgrades": [
+            "sod.blackDragon"
+        ],
+        "wikipage": "Red Dragon and Black Dragon"
+    },
+    "sod.blackDragon": {
+        "name": "Black Dragon",
+        "faction": "sod.dungeon",
+        "upgrades": [],
+        "wikipage": "Red Dragon and Black Dragon"
+    },
+    "sod.imp": {
+        "name": "Imp",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.familiar"
+        ],
+        "wikipage": "Imp and Familiar"
+    },
+    "sod.familiar": {
+        "name": "Familiar",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Imp and Familiar"
+    },
+    "sod.gog": {
+        "name": "Gog",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.magog"
+        ],
+        "wikipage": "Gog and Magog"
+    },
+    "sod.magog": {
+        "name": "Magog",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Gog and Magog"
+    },
+    "sod.hellHound": {
+        "name": "Hell Hound",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.cerberus"
+        ],
+        "wikipage": "Hell Hound and Cerberus"
+    },
+    "sod.cerberus": {
+        "name": "Cerberus",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Hell Hound and Cerberus"
+    },
+    "sod.demon": {
+        "name": "Demon",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.hornedDemon"
+        ],
+        "wikipage": "Demon and Horned Demon"
+    },
+    "sod.hornedDemon": {
+        "name": "Horned Demon",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Demon and Horned Demon"
+    },
+    "sod.pitFiend": {
+        "name": "Pit Fiend",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.pitLord"
+        ],
+        "wikipage": "Pit Fiend and Pit Lord"
+    },
+    "sod.pitLord": {
+        "name": "Pit Lord",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Pit Fiend and Pit Lord"
+    },
+    "sod.efreeti": {
+        "name": "Efreeti",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.efreetSultan"
+        ],
+        "wikipage": "Efreeti and Efreet Sultan"
+    },
+    "sod.efreetSultan": {
+        "name": "Efreet Sultan",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Efreeti and Efreet Sultan"
+    },
+    "sod.devil": {
+        "name": "Devil",
+        "faction": "sod.inferno",
+        "upgrades": [
+            "sod.archDevil"
+        ],
+        "wikipage": "Devil and Arch Devil"
+    },
+    "sod.archDevil": {
+        "name": "Arch Devil",
+        "faction": "sod.inferno",
+        "upgrades": [],
+        "wikipage": "Devil and Arch Devil"
+    },
+    "sod.gnoll": {
+        "name": "Gnoll",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.gnollMarauder"
+        ],
+        "wikipage": "Gnoll and Gnoll Marauder"
+    },
+    "sod.gnollMarauder": {
+        "name": "Gnoll Marauder",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Gnoll and Gnoll Marauder"
+    },
+    "sod.lizardman": {
+        "name": "Lizardman",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.lizardWarrior"
+        ],
+        "wikipage": "Lizardman and Lizard Warrior"
+    },
+    "sod.lizardWarrior": {
+        "name": "Lizard Warrior",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Lizardman and Lizard Warrior"
+    },
+    "sod.serpentFly": {
+        "name": "Serpent Fly",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.dragonFly"
+        ],
+        "wikipage": "Serpent Fly and Dragon Fly"
+    },
+    "sod.dragonFly": {
+        "name": "Dragon Fly",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Serpent Fly and Dragon Fly"
+    },
+    "sod.basilisk": {
+        "name": "Basilisk",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.greaterBasilisk"
+        ],
+        "wikipage": "Basilisk and Greater Basilisk"
+    },
+    "sod.greaterBasilisk": {
+        "name": "Greater Basilisk",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Basilisk and Greater Basilisk"
+    },
+    "sod.gorgon": {
+        "name": "Gorgon",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.mightyGorgon"
+        ],
+        "wikipage": "Gorgon and Mighty Gorgon"
+    },
+    "sod.mightyGorgon": {
+        "name": "Mighty Gorgon",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Gorgon and Mighty Gorgon"
+    },
+    "sod.wyvern": {
+        "name": "Wyvern",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.wyvernMonarch"
+        ],
+        "wikipage": "Wyvern and Wyvern Monarch"
+    },
+    "sod.wyvernMonarch": {
+        "name": "Wyvern Monarch",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Wyvern and Wyvern Monarch"
+    },
+    "sod.hydra": {
+        "name": "Hydra",
+        "faction": "sod.fortress",
+        "upgrades": [
+            "sod.chaosHydra"
+        ],
+        "wikipage": "Hydra and Chaos Hydra"
+    },
+    "sod.chaosHydra": {
+        "name": "Chaos Hydra",
+        "faction": "sod.fortress",
+        "upgrades": [],
+        "wikipage": "Hydra and Chaos Hydra"
+    },
+    "sod.goblin": {
+        "name": "Goblin",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.hobgoblin"
+        ],
+        "wikipage": "Goblin and Hobgoblin"
+    },
+    "sod.hobgoblin": {
+        "name": "Hobgoblin",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Goblin and Hobgoblin"
+    },
+    "sod.wolfRider": {
+        "name": "Wolf Rider",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.wolfRaider"
+        ],
+        "wikipage": "Wolf Rider and Wolf Raider"
+    },
+    "sod.wolfRaider": {
+        "name": "Wolf Raider",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Wolf Rider and Wolf Raider"
+    },
+    "sod.orc": {
+        "name": "Orc",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.orcChieftain"
+        ],
+        "wikipage": "Orc and Orc Chieftain"
+    },
+    "sod.orcChieftain": {
+        "name": "Orc Chieftain",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Orc and Orc Chieftain"
+    },
+    "sod.ogre": {
+        "name": "Ogre",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.ogreMage"
+        ],
+        "wikipage": "Ogre and Ogre Mage"
+    },
+    "sod.ogreMage": {
+        "name": "Ogre Mage",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Ogre and Ogre Mage"
+    },
+    "sod.roc": {
+        "name": "Roc",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.thunderbird"
+        ],
+        "wikipage": "Roc and Thunderbird"
+    },
+    "sod.thunderbird": {
+        "name": "Thunderbird",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Roc and Thunderbird"
+    },
+    "sod.cyclops": {
+        "name": "Cyclops",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.cyclopsKing"
+        ],
+        "wikipage": "Cyclops and Cyclops King"
+    },
+    "sod.cyclopsKing": {
+        "name": "Cyclops King",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Cyclops and Cyclops King"
+    },
+    "sod.behemoth": {
+        "name": "Behemoth",
+        "faction": "sod.stronghold",
+        "upgrades": [
+            "sod.ancientBehemoth"
+        ],
+        "wikipage": "Behemoth and Ancient Behemoth"
+    },
+    "sod.ancientBehemoth": {
+        "name": "Ancient Behemoth",
+        "faction": "sod.stronghold",
+        "upgrades": [],
+        "wikipage": "Behemoth and Ancient Behemoth"
+    },
+    "sod.pixie": {
+        "name": "Pixie",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.sprite"
+        ],
+        "wikipage": "Pixie and Sprite"
+    },
+    "sod.sprite": {
+        "name": "Sprite",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Pixie and Sprite"
+    },
+    "sod.airElemental": {
+        "name": "Air Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.stormElemental"
+        ],
+        "wikipage": "Air Elemental and Storm Elemental"
+    },
+    "sod.stormElemental": {
+        "name": "Storm Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Air Elemental and Storm Elemental"
+    },
+    "sod.waterElemental": {
+        "name": "Water Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.iceElemental"
+        ],
+        "wikipage": "Water Elemental and Ice Elemental"
+    },
+    "sod.iceElemental": {
+        "name": "Ice Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Water Elemental and Ice Elemental"
+    },
+    "sod.fireElemental": {
+        "name": "Fire Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.energyElemental"
+        ],
+        "wikipage": "Fire Elemental and Energy Elemental"
+    },
+    "sod.energyElemental": {
+        "name": "Energy Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Fire Elemental and Energy Elemental"
+    },
+    "sod.earthElemental": {
+        "name": "Earth Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.magmaElemental"
+        ],
+        "wikipage": "Earth Elemental and Magma Elemental"
+    },
+    "sod.magmaElemental": {
+        "name": "Magma Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Earth Elemental and Magma Elemental"
+    },
+    "sod.psychicElemental": {
+        "name": "Psychic Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.magicElemental"
+        ],
+        "wikipage": "Psychic Elemental and Magic Elemental"
+    },
+    "sod.magicElemental": {
+        "name": "Magic Elemental",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Psychic Elemental and Magic Elemental"
+    },
+    "sod.firebird": {
+        "name": "Firebird",
+        "faction": "sod.conflux",
+        "upgrades": [
+            "sod.phoenix"
+        ],
+        "wikipage": "Firebird and Phoenix"
+    },
+    "sod.phoenix": {
+        "name": "Phoenix",
+        "faction": "sod.conflux",
+        "upgrades": [],
+        "wikipage": "Firebird and Phoenix"
+    },
+    "hota.nymph": {
+        "name": "Nymph",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.oceanid"
+        ],
+        "wikipage": "Nymph and Oceanid"
+    },
+    "hota.oceanid": {
+        "name": "Oceanid",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Nymph and Oceanid"
+    },
+    "hota.crewMate": {
+        "name": "Crew Mate",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.seaman"
+        ],
+        "wikipage": "Crew Mate and Seaman"
+    },
+    "hota.seaman": {
+        "name": "Seaman",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Crew Mate and Seaman"
+    },
+    "hota.pirate": {
+        "name": "Pirate",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.corsair"
+        ],
+        "wikipage": "Pirate, Corsair, and Sea Dog"
+    },
+    "hota.corsair": {
+        "name": "Corsair",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.seaDog"
+        ],
+        "wikipage": "Pirate, Corsair, and Sea Dog"
+    },
+    "hota.seaDog": {
+        "name": "Sea Dog",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Pirate, Corsair, and Sea Dog"
+    },
+    "hota.stormbird": {
+        "name": "Stormbird",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.ayssid"
+        ],
+        "wikipage": "Stormbird and Ayssid"
+    },
+    "hota.ayssid": {
+        "name": "Ayssid",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Stormbird and Ayssid"
+    },
+    "hota.seaWitch": {
+        "name": "Sea Witch",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.sorceress"
+        ],
+        "wikipage": "Sea Witch and Sorceress"
+    },
+    "hota.sorceress": {
+        "name": "Sorceress",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Sea Witch and Sorceress"
+    },
+    "hota.nix": {
+        "name": "Nix",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.nixWarrior"
+        ],
+        "wikipage": "Nix and Nix Warrior"
+    },
+    "hota.nixWarrior": {
+        "name": "Nix Warrior",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Nix and Nix Warrior"
+    },
+    "hota.seaSerpent": {
+        "name": "Sea Serpent",
+        "faction": "hota.cove",
+        "upgrades": [
+            "hota.haspid"
+        ],
+        "wikipage": "Sea Serpent and Haspid"
+    },
+    "hota.haspid": {
+        "name": "Haspid",
+        "faction": "hota.cove",
+        "upgrades": [],
+        "wikipage": "Sea Serpent and Haspid"
+    },
+    "hota.halfling": {
+        "name": "Halfling",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.halflingGrenadier"
+        ],
+        "wikipage": "Halfling and Halfling Grenadier"
+    },
+    "hota.halflingGrenadier": {
+        "name": "Halfling Grenadier",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Halfling and Halfling Grenadier"
+    },
+    "hota.mechanic": {
+        "name": "Mechanic",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.engineer"
+        ],
+        "wikipage": "Mechanic and Engineer"
+    },
+    "hota.engineer": {
+        "name": "Engineer",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Mechanic and Engineer"
+    },
+    "hota.armadillo": {
+        "name": "Armadillo",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.bellwetherArmadillo"
+        ],
+        "wikipage": "Armadillo and Bellwether Armadillo"
+    },
+    "hota.bellwetherArmadillo": {
+        "name": "Bellwether Armadillo",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Armadillo and Bellwether Armadillo"
+    },
+    "hota.automaton": {
+        "name": "Automaton",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.sentinelAutomaton"
+        ],
+        "wikipage": "Automaton and Sentinel Automaton"
+    },
+    "hota.sentinelAutomaton": {
+        "name": "Sentinel Automaton",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Automaton and Sentinel Automaton"
+    },
+    "hota.sandworm": {
+        "name": "Sandworm",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.olgoiKhorkhoi"
+        ],
+        "wikipage": "Sandworm and Olgoi-Khorkhoi"
+    },
+    "hota.olgoiKhorkhoi": {
+        "name": "Olgoi-Khorkhoi",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Sandworm and Olgoi-Khorkhoi"
+    },
+    "hota.gunslinger": {
+        "name": "Gunslinger",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.bountyHunter"
+        ],
+        "wikipage": "Gunslinger and Bounty Hunter"
+    },
+    "hota.bountyHunter": {
+        "name": "Bounty Hunter",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Gunslinger and Bounty Hunter"
+    },
+    "hota.couatl": {
+        "name": "Couatl",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.crimsonCouatl"
+        ],
+        "wikipage": "Couatl and Crimson Couatl"
+    },
+    "hota.crimsonCouatl": {
+        "name": "Crimson Couatl",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Couatl and Crimson Couatl"
+    },
+    "hota.dreadnought": {
+        "name": "Dreadnought",
+        "faction": "hota.factory",
+        "upgrades": [
+            "hota.juggernaut"
+        ],
+        "wikipage": "Dreadnought and Juggernaut"
+    },
+    "hota.juggernaut": {
+        "name": "Juggernaut",
+        "faction": "hota.factory",
+        "upgrades": [],
+        "wikipage": "Dreadnought and Juggernaut"
+    },
+    "sod.peasant": {
+        "name": "Peasant",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Peasant"
+    },
+    "sod.halfling": {
+        "name": "Halfling",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Halfling"
+    },
+    "sod.boar": {
+        "name": "Boar",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Boar"
+    },
+    "sod.rogue": {
+        "name": "Rogue",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Rogue"
+    },
+    "sod.nomad": {
+        "name": "Nomad",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Nomad"
+    },
+    "sod.mummy": {
+        "name": "Mummy",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Mummy"
+    },
+    "sod.sharpshooter": {
+        "name": "Sharpshooter",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Sharpshooter"
+    },
+    "sod.goldGolem": {
+        "name": "Gold Golem",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": ""
+    },
+    "sod.troll": {
+        "name": "Troll",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Troll"
+    },
+    "sod.diamondGolem": {
+        "name": "Diamond Golem",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Diamond Golem"
+    },
+    "sod.enchanter": {
+        "name": "Enchanter",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Enchanter"
+    },
+    "sod.faerieDragon": {
+        "name": "Faerie Dragon",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Faerie Dragon"
+    },
+    "sod.rustDragon": {
+        "name": "Rust Dragon",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Rust Dragon"
+    },
+    "sod.crystalDragon": {
+        "name": "Crystal Dragon",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Crystal Dragon"
+    },
+    "sod.azureDragon": {
+        "name": "Azure Dragon",
+        "faction": "sod.neutral",
+        "upgrades": [],
+        "wikipage": "Azure Dragon"
+    },
+    "hota.leprechaun": {
+        "name": "Leprechaun",
+        "faction": "hota.neutral",
+        "upgrades": [],
+        "wikipage": "Leprechaun"
+    },
+    "hota.satyr": {
+        "name": "Satyr",
+        "faction": "hota.neutral",
+        "upgrades": [],
+        "wikipage": "Satyr"
+    },
+    "hota.fangarm": {
+        "name": "Fangarm",
+        "faction": "hota.neutral",
+        "upgrades": [],
+        "wikipage": "Fangarm"
+    },
+    "hota.steelGolem": {
+        "name": "Steel Golem",
+        "faction": "hota.neutral",
+        "upgrades": [],
+        "wikipage": "Steel Golem"
+    },
+    "sod.ammoCart": {
+        "name": "Ammo Cart",
+        "faction": "sod.special",
+        "upgrades": [],
+        "wikipage": "War Machine#Ammo_Cart"
+    },
+    "sod.firstAidTent": {
+        "name": "First Aid Tent",
+        "faction": "sod.special",
+        "upgrades": [],
+        "wikipage": "War Machine#First_Aid_Tent"
+    },
+    "sod.ballista": {
+        "name": "Ballista",
+        "faction": "sod.special",
+        "upgrades": [],
+        "wikipage": "War Machine#Ballista"
+    },
+    "sod.catapult": {
+        "name": "Catapult",
+        "faction": "sod.special",
+        "upgrades": [],
+        "wikipage": "War Machine#Catapult"
+    },
+    "hota.cannon": {
+        "name": "Cannon",
+        "faction": "hota.special",
+        "upgrades": [],
+        "wikipage": "War Machine#Cannon"
+    },
+    "unknown": {
+        "name": "Unknown",
+        "faction": "unknown",
+        "upgrades": [],
+        "wikipage": "Unknown"
+    }
+}

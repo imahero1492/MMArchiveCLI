@@ -1,2 +1,4 @@
 Pillow>=9.0.0
 xxhash>=3.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.0
