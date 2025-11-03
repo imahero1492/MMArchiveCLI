@@ -13,3 +13,4 @@ temp-extract
 *.vid
 test*.py
 *.smk
+testing-scripts

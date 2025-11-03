@@ -49,6 +49,7 @@ class TRSSnd(TRSMMArchive):
             raise ERSLodException(S_RS_LOD_UNKNOWN_SND)
         
         files_count = struct.unpack('<I', count_data)[0]
+        sender.count = files_count  # This is the missing line!
         
         # Heuristics to detect MM format
         if files_count > 0:
