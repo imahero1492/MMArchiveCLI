@@ -5,13 +5,27 @@
         "upgrades": [
             "sod.halberdier"
         ],
-        "wikipage": "Pikeman and Halberdier"
+        "wikipage": "Pikeman and Halberdier",
+        "sounds": {
+            "Attack": "PIKEATTK",
+            "Defend": "PIKEDFND",
+            "Death": "PIKEKILL",
+            "Move": "PIKEMOVE",
+            "Hurt": "PIKEWNCE"
+        }
     },
     "sod.halberdier": {
         "name": "Halberdier",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Pikeman and Halberdier"
+        "wikipage": "Pikeman and Halberdier",
+        "sounds": {
+            "Attack": "HALBATTK",
+            "Defend": "HALBDFND",
+            "Death": "HALBKILL",
+            "Move": "HALBMOVE",
+            "Hurt": "HALBWNCE"
+        }
     },
     "sod.archer": {
         "name": "Archer",
@@ -19,13 +33,29 @@
         "upgrades": [
             "sod.marksman"
         ],
-        "wikipage": "Archer and Marksman"
+        "wikipage": "Archer and Marksman",
+        "sounds": {
+            "Attack": "LCRSATTK",
+            "Defend": "LCRSDFND",
+            "Death": "LCRSKILL",
+            "Move": "LCRSMOVE",
+            "Shoot": "LCRSSHOT",
+            "Hurt": "LCRSWNCE"
+        }
     },
     "sod.marksman": {
         "name": "Marksman",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Archer and Marksman"
+        "wikipage": "Archer and Marksman",
+        "sounds": {
+            "Attack": "HCRSATTK",
+            "Defend": "HCRSDFND",
+            "Death": "HCRSKILL",
+            "Move": "HCRSMOVE",
+            "Shoot": "HCRSSHOT",
+            "Hurt": "HCRSWNCE"
+        }
     },
     "sod.griffin": {
         "name": "Griffin",
@@ -33,13 +63,27 @@
         "upgrades": [
             "sod.royalGriffin"
         ],
-        "wikipage": "Griffin and Royal Griffin"
+        "wikipage": "Griffin and Royal Griffin",
+        "sounds": {
+            "Attack": "GRIFATTK",
+            "Defend": "GRIFDFND",
+            "Death": "GRIFKILL",
+            "Move": "GRIFMOVE",
+            "Hurt": "GRIFWNCE"
+        }
     },
     "sod.royalGriffin": {
         "name": "Royal Griffin",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Griffin and Royal Griffin"
+        "wikipage": "Griffin and Royal Griffin",
+        "sounds": {
+            "Attack": "RGRFATTK",
+            "Defend": "RGRFDFND",
+            "Death": "RGRFKILL",
+            "Move": "RGRFMOVE",
+            "Hurt": "RGRFWNCE"
+        }
     },
     "sod.swordsman": {
         "name": "Swordsman",
@@ -47,13 +91,27 @@
         "upgrades": [
             "sod.crusader"
         ],
-        "wikipage": "Swordsman and Crusader"
+        "wikipage": "Swordsman and Crusader",
+        "sounds": {
+            "Attack": "SWRDATTK",
+            "Defend": "SWRDDFND",
+            "Death": "SWRDKILL",
+            "Move": "SWRDMOVE",
+            "Hurt": "SWRDWNCE"
+        }
     },
     "sod.crusader": {
         "name": "Crusader",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Swordsman and Crusader"
+        "wikipage": "Swordsman and Crusader",
+        "sounds": {
+            "Attack": "CRUSATTK",
+            "Defend": "CRUSDFND",
+            "Death": "CRUSKILL",
+            "Move": "CRUSMOVE",
+            "Hurt": "CRUSWNCE"
+        }
     },
     "sod.monk": {
         "name": "Monk",
@@ -61,13 +119,29 @@
         "upgrades": [
             "sod.zealot"
         ],
-        "wikipage": "Monk and Zealot"
+        "wikipage": "Monk and Zealot",
+        "sounds": {
+            "Attack": "MONKATTK",
+            "Defend": "MONKDFND",
+            "Death": "MONKKILL",
+            "Move": "MONKMOVE",
+            "Shoot": "MONKSHOT",
+            "Hurt": "MONKWNCE"
+        }
     },
     "sod.zealot": {
         "name": "Zealot",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Monk and Zealot"
+        "wikipage": "Monk and Zealot",
+        "sounds": {
+            "Attack": "ZELTATTK",
+            "Defend": "ZELTDFND",
+            "Death": "ZELTKILL",
+            "Move": "ZELTMOVE",
+            "Shoot": "ZELTSHOT",
+            "Hurt": "ZELTWNCE"
+        }
     },
     "sod.cavalier": {
         "name": "Cavalier",
@@ -75,13 +149,27 @@
         "upgrades": [
             "sod.champion"
         ],
-        "wikipage": "Cavalier and Champion"
+        "wikipage": "Cavalier and Champion",
+        "sounds": {
+            "Attack": "CAVAATTK",
+            "Defend": "CAVADFND",
+            "Death": "CAVAKILL",
+            "Move": "CAVAMOVE",
+            "Hurt": "CAVAWNCE"
+        }
     },
     "sod.champion": {
         "name": "Champion",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Cavalier and Champion"
+        "wikipage": "Cavalier and Champion",
+        "sounds": {
+            "Attack": "CHMPATTK",
+            "Defend": "CHMPDFND",
+            "Death": "CHMPKILL",
+            "Move": "CHMPMOVE",
+            "Hurt": "CHMPWNCE"
+        }
     },
     "sod.angel": {
         "name": "Angel",
@@ -89,13 +177,27 @@
         "upgrades": [
             "sod.archangel"
         ],
-        "wikipage": "Angel and Archangel"
+        "wikipage": "Angel and Archangel",
+        "sounds": {
+            "Attack": "ANGLATTK",
+            "Defend": "ANGLDFND",
+            "Death": "ANGLKILL",
+            "Move": "ANGLMOVE",
+            "Hurt": "ANGLWNCE"
+        }
     },
     "sod.archangel": {
         "name": "Archangel",
         "faction": "sod.castle",
         "upgrades": [],
-        "wikipage": "Angel and Archangel"
+        "wikipage": "Angel and Archangel",
+        "sounds": {
+            "Attack": "AAGLATTK",
+            "Defend": "AAGLDFND",
+            "Death": "AAGLKILL",
+            "Move": "AAGLMOVE",
+            "Hurt": "AAGLWNCE"
+        }
     },
     "sod.centaur": {
         "name": "Centaur",
@@ -103,13 +205,28 @@
         "upgrades": [
             "sod.centaurCaptain"
         ],
-        "wikipage": "Centaur and Centaur Captain"
+        "wikipage": "Centaur and Centaur Captain",
+        "sounds": {
+            "Attack": "CNTRATTK",
+            "Defend": "CNTRDFND",
+            "Death": "CNTRKILL",
+            "Move": "CNTRMOVE",
+            "Shoot": "CNTRSHOT",
+            "Hurt": "CNTRWNCE"
+        }
     },
     "sod.centaurCaptain": {
         "name": "Centaur Captain",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Centaur and Centaur Captain"
+        "wikipage": "Centaur and Centaur Captain",
+        "sounds": {
+            "Attack": "ECNTATTK",
+            "Defend": "ECNTDFND",
+            "Death": "ECNTKILL",
+            "Move": "ECNTMOVE",
+            "Hurt": "ECNTWNCE"
+        }
     },
     "sod.dwarf": {
         "name": "Dwarf",
@@ -117,13 +234,27 @@
         "upgrades": [
             "sod.battleDwarf"
         ],
-        "wikipage": "Dwarf and Battle Dwarf"
+        "wikipage": "Dwarf and Battle Dwarf",
+        "sounds": {
+            "Attack": "DWRFATTK",
+            "Defend": "DWRFDFND",
+            "Death": "DWRFKILL",
+            "Move": "DWRFMOVE",
+            "Hurt": "DWRFWNCE"
+        }
     },
     "sod.battleDwarf": {
         "name": "Battle Dwarf",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Dwarf and Battle Dwarf"
+        "wikipage": "Dwarf and Battle Dwarf",
+        "sounds": {
+            "Attack": "BDRFATTK",
+            "Defend": "BDRFDFND",
+            "Death": "BDRFKILL",
+            "Move": "BDRFMOVE",
+            "Hurt": "BDRFWNCE"
+        }
     },
     "sod.woodElf": {
         "name": "Wood Elf",
@@ -131,13 +262,29 @@
         "upgrades": [
             "sod.grandElf"
         ],
-        "wikipage": "Wood Elf and Grand Elf"
+        "wikipage": "Wood Elf and Grand Elf",
+        "sounds": {
+            "Attack": "WELFATTK",
+            "Defend": "WELFDFND",
+            "Death": "WELFKILL",
+            "Move": "WELFMOVE",
+            "Shoot": "WELFSHOT",
+            "Hurt": "WELFWNCE"
+        }
     },
     "sod.grandElf": {
         "name": "Grand Elf",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Wood Elf and Grand Elf"
+        "wikipage": "Wood Elf and Grand Elf",
+        "sounds": {
+            "Attack": "GELFATTK",
+            "Defend": "GELFDFND",
+            "Death": "GELFKILL",
+            "Move": "GELFMOVE",
+            "Shoot": "GELFSHOT",
+            "Hurt": "GELFWNCE"
+        }
     },
     "sod.pegasus": {
         "name": "Pegasus",
@@ -145,13 +292,27 @@
         "upgrades": [
             "sod.silverPegasus"
         ],
-        "wikipage": "Pegasus and Silver Pegasus"
+        "wikipage": "Pegasus and Silver Pegasus",
+        "sounds": {
+            "Attack": "PEGAATTK",
+            "Defend": "PEGADFND",
+            "Death": "PEGAKILL",
+            "Move": "PEGAMOVE",
+            "Hurt": "PEGAWNCE"
+        }
     },
     "sod.silverPegasus": {
         "name": "Silver Pegasus",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Pegasus and Silver Pegasus"
+        "wikipage": "Pegasus and Silver Pegasus",
+        "sounds": {
+            "Attack": "APEGATTK",
+            "Defend": "APEGDFND",
+            "Death": "APEGKILL",
+            "Move": "APEGMOVE",
+            "Hurt": "APEGWNCE"
+        }
     },
     "sod.dendroidGuard": {
         "name": "Dendroid Guard",
@@ -159,13 +320,27 @@
         "upgrades": [
             "sod.dendroidSoldier"
         ],
-        "wikipage": "Dendroid Guard and Dendroid Soldier"
+        "wikipage": "Dendroid Guard and Dendroid Soldier",
+        "sounds": {
+            "Attack": "TREEATTK",
+            "Defend": "TREEDFND",
+            "Death": "TREEKILL",
+            "Move": "TREEMOVE",
+            "Hurt": "TREEWNCE"
+        }
     },
     "sod.dendroidSoldier": {
         "name": "Dendroid Soldier",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Dendroid Guard and Dendroid Soldier"
+        "wikipage": "Dendroid Guard and Dendroid Soldier",
+        "sounds": {
+            "Attack": "BTREATTK",
+            "Defend": "BTREDFND",
+            "Death": "BTREKILL",
+            "Move": "BTREMOVE",
+            "Hurt": "BTREWNCE"
+        }
     },
     "sod.unicorn": {
         "name": "Unicorn",
@@ -173,13 +348,28 @@
         "upgrades": [
             "sod.warUnicorn"
         ],
-        "wikipage": "Unicorn and War Unicorn"
+        "wikipage": "Unicorn and War Unicorn",
+        "sounds": {
+            "Attack": "UNICATTK",
+            "Defend": "UNICDFND",
+            "Death": "UNICKILL",
+            "Move": "UNICMOVE",
+            "Hurt": "UNICWNCE"
+        }
     },
     "sod.warUnicorn": {
         "name": "War Unicorn",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Unicorn and War Unicorn"
+        "wikipage": "Unicorn and War Unicorn",
+        "sounds": {
+            "Attack": "WUNCATTK",
+            "Defend": "WUNCDFND",
+            "Death": "WUNCKILL",
+            "Move": "WUNCMOVE",
+            "Shoot": "WUNCSHOT",
+            "Hurt": "WUNCWNCE"
+        }
     },
     "sod.greenDragon": {
         "name": "Green Dragon",
@@ -187,13 +377,27 @@
         "upgrades": [
             "sod.goldDragon"
         ],
-        "wikipage": "Green Dragon and Gold Dragon"
+        "wikipage": "Green Dragon and Gold Dragon",
+        "sounds": {
+            "Attack": "GRDRATTK",
+            "Defend": "GRDRDFND",
+            "Death": "GRDRKILL",
+            "Move": "GRDRMOVE",
+            "Hurt": "GRDRWNCE"
+        }
     },
     "sod.goldDragon": {
         "name": "Gold Dragon",
         "faction": "sod.rampart",
         "upgrades": [],
-        "wikipage": "Green Dragon and Gold Dragon"
+        "wikipage": "Green Dragon and Gold Dragon",
+        "sounds": {
+            "Attack": "GODRATTK",
+            "Defend": "GODRDFND",
+            "Death": "GODRKILL",
+            "Move": "GODRMOVE",
+            "Hurt": "GODRWNCE"
+        }
     },
     "sod.gremlin": {
         "name": "Gremlin",
@@ -201,13 +405,29 @@
         "upgrades": [
             "sod.masterGremlin"
         ],
-        "wikipage": "Gremlin and Master Gremlin"
+        "wikipage": "Gremlin and Master Gremlin",
+        "sounds": {
+            "Attack": "AGRMATTK",
+            "Defend": "AGRMDFND",
+            "Death": "AGRMKILL",
+            "Move": "AGRMMOVE",
+            "Shoot": "AGRMSHOT",
+            "Hurt": "AGRMWNCE"
+        }
     },
     "sod.masterGremlin": {
         "name": "Master Gremlin",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Gremlin and Master Gremlin"
+        "wikipage": "Gremlin and Master Gremlin",
+        "sounds": {
+            "Attack": "MGRMATTK",
+            "Defend": "MGRMDFND",
+            "Death": "MGRMKILL",
+            "Move": "MGRMMOVE",
+            "Shoot": "MGRMSHOT",
+            "Hurt": "MGRMWNCE"
+        }
     },
     "sod.stoneGargoyle": {
         "name": "Stone Gargoyle",
@@ -215,13 +435,27 @@
         "upgrades": [
             "sod.obsidianGargoyle"
         ],
-        "wikipage": "Stone Gargoyle and Obsidian Gargoyle"
+        "wikipage": "Stone Gargoyle and Obsidian Gargoyle",
+        "sounds": {
+            "Attack": "SGRGATTK",
+            "Defend": "SGRGDFND",
+            "Death": "SGRGKILL",
+            "Move": "SGRGMOVE",
+            "Hurt": "SGRGWNCE"
+        }
     },
     "sod.obsidianGargoyle": {
         "name": "Obsidian Gargoyle",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Stone Gargoyle and Obsidian Gargoyle"
+        "wikipage": "Stone Gargoyle and Obsidian Gargoyle",
+        "sounds": {
+            "Attack": "OGRGATTK",
+            "Defend": "OGRGDFND",
+            "Death": "OGRGKILL",
+            "Move": "OGRGMOVE",
+            "Hurt": "OGRGWNCE"
+        }
     },
     "sod.stoneGolem": {
         "name": "Stone Golem",
@@ -229,13 +463,27 @@
         "upgrades": [
             "sod.ironGolem"
         ],
-        "wikipage": "Stone Golem and Iron Golem"
+        "wikipage": "Stone Golem and Iron Golem",
+        "sounds": {
+            "Attack": "IGLMATTK",
+            "Defend": "IGLMDFND",
+            "Death": "IGLMKILL",
+            "Move": "IGLMMOVE",
+            "Hurt": "IGLMWNCE"
+        }
     },
     "sod.ironGolem": {
         "name": "Iron Golem",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Stone Golem and Iron Golem"
+        "wikipage": "Stone Golem and Iron Golem",
+        "sounds": {
+            "Attack": "SGLMATTK",
+            "Defend": "SGLMDFND",
+            "Death": "SGLMKILL",
+            "Move": "SGLMMOVE",
+            "Hurt": "SGLMWNCE"
+        }
     },
     "sod.mage": {
         "name": "Mage",
@@ -243,13 +491,29 @@
         "upgrades": [
             "sod.archMage"
         ],
-        "wikipage": "Mage and Arch Mage"
+        "wikipage": "Mage and Arch Mage",
+        "sounds": {
+            "Attack": "MAGEATTK",
+            "Defend": "MAGEDFND",
+            "Death": "MAGEKILL",
+            "Move": "MAGEMOVE",
+            "Shoot": "MAGESHOT",
+            "Hurt": "MAGEWNCE"
+        }
     },
     "sod.archMage": {
         "name": "Arch Mage",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Mage and Arch Mage"
+        "wikipage": "Mage and Arch Mage",
+        "sounds": {
+            "Attack": "AMAGATTK",
+            "Defend": "AMAGDFND",
+            "Death": "AMAGKILL",
+            "Move": "AMAGMOVE",
+            "Shoot": "AMAGSHOT",
+            "Hurt": "AMAGWNCE"
+        }
     },
     "sod.genie": {
         "name": "Genie",
@@ -257,13 +521,28 @@
         "upgrades": [
             "sod.masterGenie"
         ],
-        "wikipage": "Genie and Master Genie"
+        "wikipage": "Genie and Master Genie",
+        "sounds": {
+            "Attack": "GENIATTK",
+            "Defend": "GENIDFND",
+            "Death": "GENIKILL",
+            "Move": "GENIMOVE",
+            "Hurt": "GENIWNCE"
+        }
     },
     "sod.masterGenie": {
         "name": "Master Genie",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Genie and Master Genie"
+        "wikipage": "Genie and Master Genie",
+        "sounds": {
+            "Attack": "CALFATTK",
+            "Defend": "CALFDFND",
+            "Death": "CALFKILL",
+            "Move": "CALFMOVE",
+            "Shoot": "CALFSHOT",
+            "Hurt": "CALFWNCE"
+        }
     },
     "sod.naga": {
         "name": "Naga",
@@ -271,13 +550,27 @@
         "upgrades": [
             "sod.nagaQueen"
         ],
-        "wikipage": "Naga and Naga Queen"
+        "wikipage": "Naga and Naga Queen",
+        "sounds": {
+            "Attack": "NSENATTK",
+            "Defend": "NSENDFND",
+            "Death": "NSENKILL",
+            "Move": "NSENMOVE",
+            "Hurt": "NSENWNCE"
+        }
     },
     "sod.nagaQueen": {
         "name": "Naga Queen",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Naga and Naga Queen"
+        "wikipage": "Naga and Naga Queen",
+        "sounds": {
+            "Attack": "NGRDATTK",
+            "Defend": "NGRDDFND",
+            "Death": "NGRDKILL",
+            "Move": "NGRDMOVE",
+            "Hurt": "NGRDWNCE"
+        }
     },
     "sod.giant": {
         "name": "Giant",
@@ -285,13 +578,28 @@
         "upgrades": [
             "sod.titan"
         ],
-        "wikipage": "Giant and Titan"
+        "wikipage": "Giant and Titan",
+        "sounds": {
+            "Attack": "LTITATTK",
+            "Defend": "LTITDFND",
+            "Death": "LTITKILL",
+            "Move": "LTITMOVE",
+            "Hurt": "LTITWNCE"
+        }
     },
     "sod.titan": {
         "name": "Titan",
         "faction": "sod.tower",
         "upgrades": [],
-        "wikipage": "Giant and Titan"
+        "wikipage": "Giant and Titan",
+        "sounds": {
+            "Attack": "GTITATTK",
+            "Defend": "GTITDFND",
+            "Death": "GTITKILL",
+            "Move": "GTITMOVE",
+            "Shoot": "GTITSHOT",
+            "Hurt": "GTITWNCE"
+        }
     },
     "sod.skeleton": {
         "name": "Skeleton",
@@ -299,13 +607,27 @@
         "upgrades": [
             "sod.skeletonWarrior"
         ],
-        "wikipage": "Skeleton and Skeleton Warrior"
+        "wikipage": "Skeleton and Skeleton Warrior",
+        "sounds": {
+            "Attack": "SKELATTK",
+            "Defend": "SKELDFND",
+            "Death": "SKELKILL",
+            "Move": "SKELMOVE",
+            "Hurt": "SKELWNCE"
+        }
     },
     "sod.skeletonWarrior": {
         "name": "Skeleton Warrior",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Skeleton and Skeleton Warrior"
+        "wikipage": "Skeleton and Skeleton Warrior",
+        "sounds": {
+            "Attack": "SKLWATTK",
+            "Defend": "SKLWDFND",
+            "Death": "SKLWKILL",
+            "Move": "SKLWMOVE",
+            "Hurt": "SKLWWNCE"
+        }
     },
     "sod.walkingDead": {
         "name": "Walking Dead",
@@ -313,13 +635,27 @@
         "upgrades": [
             "sod.zombie"
         ],
-        "wikipage": "Walking Dead and Zombie"
+        "wikipage": "Walking Dead and Zombie",
+        "sounds": {
+            "Attack": "ZOMBATTK",
+            "Defend": "ZOMBDFND",
+            "Death": "ZOMBKILL",
+            "Move": "ZOMBMOVE",
+            "Hurt": "ZOMBWNCE"
+        }
     },
     "sod.zombie": {
         "name": "Zombie",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Walking Dead and Zombie"
+        "wikipage": "Walking Dead and Zombie",
+        "sounds": {
+            "Attack": "ZMBLATTK",
+            "Defend": "ZMBLDFND",
+            "Death": "ZMBLKILL",
+            "Move": "ZMBLMOVE",
+            "Hurt": "ZMBLWNCE"
+        }
     },
     "sod.wight": {
         "name": "Wight",
@@ -327,13 +663,27 @@
         "upgrades": [
             "sod.wraith"
         ],
-        "wikipage": "Wight and Wraith"
+        "wikipage": "Wight and Wraith",
+        "sounds": {
+            "Attack": "WGHTATTK",
+            "Defend": "WGHTDFND",
+            "Death": "WGHTKILL",
+            "Move": "WGHTMOVE",
+            "Hurt": "WGHTWNCE"
+        }
     },
     "sod.wraith": {
         "name": "Wraith",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Wight and Wraith"
+        "wikipage": "Wight and Wraith",
+        "sounds": {
+            "Attack": "WRTHATTK",
+            "Defend": "WRTHDFND",
+            "Death": "WRTHKILL",
+            "Move": "WRTHMOVE",
+            "Hurt": "WRTHWNCE"
+        }
     },
     "sod.vampire": {
         "name": "Vampire",
@@ -341,13 +691,28 @@
         "upgrades": [
             "sod.vampireLord"
         ],
-        "wikipage": "Vampire and Vampire Lord"
+        "wikipage": "Vampire and Vampire Lord",
+        "sounds": {
+            "Attack": "VAMPATTK",
+            "Defend": "VAMPDFND",
+            "Death": "VAMPKILL",
+            "Move": "VAMPMOVE",
+            "Hurt": "VAMPWNCE"
+        }
     },
     "sod.vampireLord": {
         "name": "Vampire Lord",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Vampire and Vampire Lord"
+        "wikipage": "Vampire and Vampire Lord",
+        "sounds": {
+            "Attack": "NOSFATTK",
+            "Defend": "NOSFDFND",
+            "Death": "NOSFKILL",
+            "Move": "NOSFMOVE",
+            "Shoot": "NOSFSHOT",
+            "Hurt": "NOSFWNCE"
+        }
     },
     "sod.lich": {
         "name": "Lich",
@@ -355,13 +720,29 @@
         "upgrades": [
             "sod.powerLich"
         ],
-        "wikipage": "Lich and Power Lich"
+        "wikipage": "Lich and Power Lich",
+        "sounds": {
+            "Attack": "LICHATTK",
+            "Defend": "LICHDFND",
+            "Death": "LICHKILL",
+            "Move": "LICHMOVE",
+            "Shoot": "LICHSHOT",
+            "Hurt": "LICHWNCE"
+        }
     },
     "sod.powerLich": {
         "name": "Power Lich",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Lich and Power Lich"
+        "wikipage": "Lich and Power Lich",
+        "sounds": {
+            "Attack": "PLCHATTK",
+            "Defend": "PLCHDFND",
+            "Death": "PLCHKILL",
+            "Move": "PLCHMOVE",
+            "Shoot": "PLCHSHOT",
+            "Hurt": "PLCHWNCE"
+        }
     },
     "sod.blackKnight": {
         "name": "Black Knight",
@@ -369,13 +750,27 @@
         "upgrades": [
             "sod.dreadKnight"
         ],
-        "wikipage": "Black Knight and Dread Knight"
+        "wikipage": "Black Knight and Dread Knight",
+        "sounds": {
+            "Attack": "BKNTATTK",
+            "Defend": "BKNTDFND",
+            "Death": "BKNTKILL",
+            "Move": "BKNTMOVE",
+            "Hurt": "BKNTWNCE"
+        }
     },
     "sod.dreadKnight": {
         "name": "Dread Knight",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Black Knight and Dread Knight"
+        "wikipage": "Black Knight and Dread Knight",
+        "sounds": {
+            "Attack": "BLRDATTK",
+            "Defend": "BLRDDFND",
+            "Death": "BLRDKILL",
+            "Move": "BLRDMOVE",
+            "Hurt": "BLRDWNCE"
+        }
     },
     "sod.boneDragon": {
         "name": "Bone Dragon",
@@ -383,13 +778,27 @@
         "upgrades": [
             "sod.ghostDragon"
         ],
-        "wikipage": "Bone Dragon and Ghost Dragon"
+        "wikipage": "Bone Dragon and Ghost Dragon",
+        "sounds": {
+            "Attack": "BODRATTK",
+            "Defend": "BODRDFND",
+            "Death": "BODRKILL",
+            "Move": "BODRMOVE",
+            "Hurt": "BODRWNCE"
+        }
     },
     "sod.ghostDragon": {
         "name": "Ghost Dragon",
         "faction": "sod.necropolis",
         "upgrades": [],
-        "wikipage": "Bone Dragon and Ghost Dragon"
+        "wikipage": "Bone Dragon and Ghost Dragon",
+        "sounds": {
+            "Attack": "GHDRATTK",
+            "Defend": "GHDRDFND",
+            "Death": "GHDRKILL",
+            "Move": "GHDRMOVE",
+            "Hurt": "GHDRWNCE"
+        }
     },
     "sod.troglodyte": {
         "name": "Troglodyte",
@@ -397,13 +806,27 @@
         "upgrades": [
             "sod.infernalTroglodyte"
         ],
-        "wikipage": "Troglodyte and Infernal Troglodyte"
+        "wikipage": "Troglodyte and Infernal Troglodyte",
+        "sounds": {
+            "Attack": "TROGATTK",
+            "Defend": "TROGDFND",
+            "Death": "TROGKILL",
+            "Move": "TROGMOVE",
+            "Hurt": "TROGWNCE"
+        }
     },
     "sod.infernalTroglodyte": {
         "name": "Infernal Troglodyte",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Troglodyte and Infernal Troglodyte"
+        "wikipage": "Troglodyte and Infernal Troglodyte",
+        "sounds": {
+            "Attack": "ITRGATTK",
+            "Defend": "ITRGDFND",
+            "Death": "ITRGKILL",
+            "Move": "ITRGMOVE",
+            "Hurt": "ITRGWNCE"
+        }
     },
     "sod.harpy": {
         "name": "Harpy",
@@ -411,13 +834,28 @@
         "upgrades": [
             "sod.harpyHag"
         ],
-        "wikipage": "Harpy and Harpy Hag"
+        "wikipage": "Harpy and Harpy Hag",
+        "sounds": {
+            "Attack": "HARPATTK",
+            "Defend": "HARPDFND",
+            "Death": "HARPKILL",
+            "Move": "HARPMOVE",
+            "Hurt": "HARPWNCE"
+        }
     },
     "sod.harpyHag": {
         "name": "Harpy Hag",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Harpy and Harpy Hag"
+        "wikipage": "Harpy and Harpy Hag",
+        "sounds": {
+            "Attack": "HHAGATTK",
+            "Defend": "HHAGDFND",
+            "Death": "HHAGKILL",
+            "Move": "HHAGMOVE",
+            "Shoot": "HHAGSHOT",
+            "Hurt": "HHAGWNCE"
+        }
     },
     "sod.beholder": {
         "name": "Beholder",
@@ -425,13 +863,29 @@
         "upgrades": [
             "sod.evilEye"
         ],
-        "wikipage": "Beholder and Evil Eye"
+        "wikipage": "Beholder and Evil Eye",
+        "sounds": {
+            "Attack": "BHDRATTK",
+            "Defend": "BHDRDFND",
+            "Death": "BHDRKILL",
+            "Move": "BHDRMOVE",
+            "Shoot": "BHDRSHOT",
+            "Hurt": "BHDRWNCE"
+        }
     },
     "sod.evilEye": {
         "name": "Evil Eye",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Beholder and Evil Eye"
+        "wikipage": "Beholder and Evil Eye",
+        "sounds": {
+            "Attack": "EVLIATTK",
+            "Defend": "EVLIDFND",
+            "Death": "EVLIKILL",
+            "Move": "EVLIMOVE",
+            "Shoot": "EVLISHOT",
+            "Hurt": "EVLIWNCE"
+        }
     },
     "sod.medusa": {
         "name": "Medusa",
@@ -439,13 +893,29 @@
         "upgrades": [
             "sod.medusaQueen"
         ],
-        "wikipage": "Medusa and Medusa Queen"
+        "wikipage": "Medusa and Medusa Queen",
+        "sounds": {
+            "Attack": "MEDUATTK",
+            "Defend": "MEDUDFND",
+            "Death": "MEDUKILL",
+            "Move": "MEDUMOVE",
+            "Shoot": "MEDUSHOT",
+            "Hurt": "MEDUWNCE"
+        }
     },
     "sod.medusaQueen": {
         "name": "Medusa Queen",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Medusa and Medusa Queen"
+        "wikipage": "Medusa and Medusa Queen",
+        "sounds": {
+            "Attack": "MEDQATTK",
+            "Defend": "MEDQDFND",
+            "Death": "MEDQKILL",
+            "Move": "MEDQMOVE",
+            "Shoot": "MEDQSHOT",
+            "Hurt": "MEDQWNCE"
+        }
     },
     "sod.minotaur": {
         "name": "Minotaur",
@@ -453,13 +923,28 @@
         "upgrades": [
             "sod.minotaurKing"
         ],
-        "wikipage": "Minotaur and Minotaur King"
+        "wikipage": "Minotaur and Minotaur King",
+        "sounds": {
+            "Attack": "MINOATTK",
+            "Defend": "MINODFND",
+            "Death": "MINOKILL",
+            "Move": "MINOMOVE",
+            "Hurt": "MINOWNCE"
+        }
     },
     "sod.minotaurKing": {
         "name": "Minotaur King",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Minotaur and Minotaur King"
+        "wikipage": "Minotaur and Minotaur King",
+        "sounds": {
+            "Attack": "MINKATTK",
+            "Defend": "MINKDFND",
+            "Death": "MINKKILL",
+            "Move": "MINKMOVE",
+            "Shoot": "MINKSHOT",
+            "Hurt": "MINKWNCE"
+        }
     },
     "sod.manticore": {
         "name": "Manticore",
@@ -467,13 +952,29 @@
         "upgrades": [
             "sod.scorpicore"
         ],
-        "wikipage": "Manticore and Scorpicore"
+        "wikipage": "Manticore and Scorpicore",
+        "sounds": {
+            "Attack": "MANTATTK",
+            "Defend": "MANTDFND",
+            "Death": "MANTKILL",
+            "Move": "MANTMOVE",
+            "Shoot": "MANTSHOT",
+            "Hurt": "MANTWNCE"
+        }
     },
     "sod.scorpicore": {
         "name": "Scorpicore",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Manticore and Scorpicore"
+        "wikipage": "Manticore and Scorpicore",
+        "sounds": {
+            "Attack": "SCRPATTK",
+            "Defend": "SCRPDFND",
+            "Death": "SCRPKILL",
+            "Move": "SCRPMOVE",
+            "Shoot": "SCRPSHOT",
+            "Hurt": "SCRPWNCE"
+        }
     },
     "sod.redDragon": {
         "name": "Red Dragon",
@@ -481,13 +982,27 @@
         "upgrades": [
             "sod.blackDragon"
         ],
-        "wikipage": "Red Dragon and Black Dragon"
+        "wikipage": "Red Dragon and Black Dragon",
+        "sounds": {
+            "Attack": "RDDRATTK",
+            "Defend": "RDDRDFND",
+            "Death": "RDDRKILL",
+            "Move": "RDDRMOVE",
+            "Hurt": "RDDRWNCE"
+        }
     },
     "sod.blackDragon": {
         "name": "Black Dragon",
         "faction": "sod.dungeon",
         "upgrades": [],
-        "wikipage": "Red Dragon and Black Dragon"
+        "wikipage": "Red Dragon and Black Dragon",
+        "sounds": {
+            "Attack": "BKDRATTK",
+            "Defend": "BKDRDFND",
+            "Death": "BKDRKILL",
+            "Move": "BKDRMOVE",
+            "Hurt": "BKDRWNCE"
+        }
     },
     "sod.imp": {
         "name": "Imp",
@@ -495,13 +1010,27 @@
         "upgrades": [
             "sod.familiar"
         ],
-        "wikipage": "Imp and Familiar"
+        "wikipage": "Imp and Familiar",
+        "sounds": {
+            "Attack": "IMPPATTK",
+            "Defend": "IMPPDFND",
+            "Death": "IMPPKILL",
+            "Move": "IMPPMOVE",
+            "Hurt": "IMPPWNCE"
+        }
     },
     "sod.familiar": {
         "name": "Familiar",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Imp and Familiar"
+        "wikipage": "Imp and Familiar",
+        "sounds": {
+            "Attack": "FMLRATTK",
+            "Defend": "FMLRDFND",
+            "Death": "FMLRKILL",
+            "Move": "FMLRMOVE",
+            "Hurt": "FMLRWNCE"
+        }
     },
     "sod.gog": {
         "name": "Gog",
@@ -509,13 +1038,29 @@
         "upgrades": [
             "sod.magog"
         ],
-        "wikipage": "Gog and Magog"
+        "wikipage": "Gog and Magog",
+        "sounds": {
+            "Attack": "GOGGATTK",
+            "Defend": "GOGGDFND",
+            "Death": "GOGGKILL",
+            "Move": "GOGGMOVE",
+            "Shoot": "GOGGSHOT",
+            "Hurt": "GOGGWNCE"
+        }
     },
     "sod.magog": {
         "name": "Magog",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Gog and Magog"
+        "wikipage": "Gog and Magog",
+        "sounds": {
+            "Attack": "MGOGATTK",
+            "Defend": "MGOGDFND",
+            "Death": "MGOGKILL",
+            "Move": "MGOGMOVE",
+            "Shoot": "SPONTCOMB",
+            "Hurt": "MGOGWNCE"
+        }
     },
     "sod.hellHound": {
         "name": "Hell Hound",
@@ -523,13 +1068,27 @@
         "upgrades": [
             "sod.cerberus"
         ],
-        "wikipage": "Hell Hound and Cerberus"
+        "wikipage": "Hell Hound and Cerberus",
+        "sounds": {
+            "Attack": "HHNDATTK",
+            "Defend": "HHNDDFND",
+            "Death": "HHNDKILL",
+            "Move": "HHNDMOVE",
+            "Hurt": "HHNDWNCE"
+        }
     },
     "sod.cerberus": {
         "name": "Cerberus",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Hell Hound and Cerberus"
+        "wikipage": "Hell Hound and Cerberus",
+        "sounds": {
+            "Attack": "CERBATTK",
+            "Defend": "CERBDFND",
+            "Death": "CERBKILL",
+            "Move": "CERBMOVE",
+            "Hurt": "CERBWNCE"
+        }
     },
     "sod.demon": {
         "name": "Demon",
@@ -537,13 +1096,27 @@
         "upgrades": [
             "sod.hornedDemon"
         ],
-        "wikipage": "Demon and Horned Demon"
+        "wikipage": "Demon and Horned Demon",
+        "sounds": {
+            "Attack": "SHDMATTK",
+            "Defend": "SHDMDFND",
+            "Death": "SHDMKILL",
+            "Move": "SHDMMOVE",
+            "Hurt": "SHDMWNCE"
+        }
     },
     "sod.hornedDemon": {
         "name": "Horned Demon",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Demon and Horned Demon"
+        "wikipage": "Demon and Horned Demon",
+        "sounds": {
+            "Attack": "DHDMATTK",
+            "Defend": "DHDMDFND",
+            "Death": "DHDMKILL",
+            "Move": "DHDMMOVE",
+            "Hurt": "DHDMWNCE"
+        }
     },
     "sod.pitFiend": {
         "name": "Pit Fiend",
@@ -551,13 +1124,27 @@
         "upgrades": [
             "sod.pitLord"
         ],
-        "wikipage": "Pit Fiend and Pit Lord"
+        "wikipage": "Pit Fiend and Pit Lord",
+        "sounds": {
+            "Attack": "PFNDATTK",
+            "Defend": "PFNDDFND",
+            "Death": "PFNDKILL",
+            "Move": "PFNDMOVE",
+            "Hurt": "PFNDWNCE"
+        }
     },
     "sod.pitLord": {
         "name": "Pit Lord",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Pit Fiend and Pit Lord"
+        "wikipage": "Pit Fiend and Pit Lord",
+        "sounds": {
+            "Attack": "PFOEATTK",
+            "Defend": "PFOEDFND",
+            "Death": "PFOEKILL",
+            "Move": "PFOEMOVE",
+            "Hurt": "PFOEWNCE"
+        }
     },
     "sod.efreeti": {
         "name": "Efreeti",
@@ -565,13 +1152,29 @@
         "upgrades": [
             "sod.efreetSultan"
         ],
-        "wikipage": "Efreeti and Efreet Sultan"
+        "wikipage": "Efreeti and Efreet Sultan",
+        "sound" :
+		{
+			"Attack": "EFRTATTK",
+			"Defend": "EFRTDFND",
+			"Death": "EFRTKILL",
+			"Move": "EFRTMOVE",
+			"Hurt": "EFRTWNCE"
+		}
     },
     "sod.efreetSultan": {
         "name": "Efreet Sultan",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Efreeti and Efreet Sultan"
+        "wikipage": "Efreeti and Efreet Sultan",
+        "sounds": {
+            "Attack": "ESULATTK",
+            "Defend": "ESULDFND",
+            "Death": "ESULKILL",
+            "Move": "ESULMOVE",
+            "Shoot": "ESULSHOT",
+            "Hurt": "ESULWNCE"
+        }
     },
     "sod.devil": {
         "name": "Devil",
@@ -579,13 +1182,27 @@
         "upgrades": [
             "sod.archDevil"
         ],
-        "wikipage": "Devil and Arch Devil"
+        "wikipage": "Devil and Arch Devil",
+        "sounds": {
+            "Attack": "DEVLATTK",
+            "Defend": "DEVLDFND",
+            "Death": "DEVLKILL",
+            "Move": "DEVLMOVE",
+            "Hurt": "DEVLWNCE"
+        }
     },
     "sod.archDevil": {
         "name": "Arch Devil",
         "faction": "sod.inferno",
         "upgrades": [],
-        "wikipage": "Devil and Arch Devil"
+        "wikipage": "Devil and Arch Devil",
+        "sounds": {
+            "Attack": "ADVLATTK",
+            "Defend": "ADVLDFND",
+            "Death": "ADVLKILL",
+            "Move": "ADVLMOVE",
+            "Hurt": "ADVLWNCE"
+        }
     },
     "sod.gnoll": {
         "name": "Gnoll",
@@ -593,13 +1210,27 @@
         "upgrades": [
             "sod.gnollMarauder"
         ],
-        "wikipage": "Gnoll and Gnoll Marauder"
+        "wikipage": "Gnoll and Gnoll Marauder",
+        "sounds": {
+            "Attack": "GNOLATTK",
+            "Defend": "GNOLDFND",
+            "Death": "GNOLKILL",
+            "Move": "GNOLMOVE",
+            "Hurt": "GNOLWNCE"
+        }
     },
     "sod.gnollMarauder": {
         "name": "Gnoll Marauder",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Gnoll and Gnoll Marauder"
+        "wikipage": "Gnoll and Gnoll Marauder",
+        "sounds": {
+            "Attack": "GNLMATTK",
+            "Defend": "GNLMDFND",
+            "Death": "GNLMKILL",
+            "Move": "GNLMMOVE",
+            "Hurt": "GNLMWNCE"
+        }
     },
     "sod.lizardman": {
         "name": "Lizardman",
@@ -607,13 +1238,29 @@
         "upgrades": [
             "sod.lizardWarrior"
         ],
-        "wikipage": "Lizardman and Lizard Warrior"
+        "wikipage": "Lizardman and Lizard Warrior",
+        "sounds": {
+            "Attack": "PLIZATTK",
+            "Defend": "PLIZDFND",
+            "Death": "PLIZKILL",
+            "Move": "PLIZMOVE",
+            "Shoot": "PLIZSHOT",
+            "Hurt": "PLIZWNCE"
+        }
     },
     "sod.lizardWarrior": {
         "name": "Lizard Warrior",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Lizardman and Lizard Warrior"
+        "wikipage": "Lizardman and Lizard Warrior",
+        "sounds": {
+            "Attack": "ALIZATTK",
+            "Defend": "ALIZDFND",
+            "Death": "ALIZKILL",
+            "Move": "ALIZMOVE",
+            "Shoot": "ALIZSHOT",
+            "Hurt": "ALIZWNCE"
+        }
     },
     "sod.serpentFly": {
         "name": "Serpent Fly",
@@ -621,13 +1268,28 @@
         "upgrades": [
             "sod.dragonFly"
         ],
-        "wikipage": "Serpent Fly and Dragon Fly"
+        "wikipage": "Serpent Fly and Dragon Fly",
+        "sounds": {
+            "Attack": "DFLYATTK",
+            "Defend": "DFLYDFND",
+            "Death": "DFLYKILL",
+            "Move": "DFLYMOVE",
+            "Hurt": "DFLYWNCE"
+        }
     },
     "sod.dragonFly": {
         "name": "Dragon Fly",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Serpent Fly and Dragon Fly"
+        "wikipage": "Serpent Fly and Dragon Fly",
+        "sounds": {
+            "Attack": "FDFLATTK",
+            "Defend": "FDFLDFND",
+            "Death": "FDFLKILL",
+            "Move": "FDFLMOVE",
+            "Shoot": "FDFLSHOT",
+            "Hurt": "FDFLWNCE"
+        }
     },
     "sod.basilisk": {
         "name": "Basilisk",
@@ -635,13 +1297,27 @@
         "upgrades": [
             "sod.greaterBasilisk"
         ],
-        "wikipage": "Basilisk and Greater Basilisk"
+        "wikipage": "Basilisk and Greater Basilisk",
+        "sounds": {
+            "Attack": "BASLATTK",
+            "Defend": "BASLDFND",
+            "Death": "BASLKILL",
+            "Move": "BASLMOVE",
+            "Hurt": "BASLWNCE"
+        }
     },
     "sod.greaterBasilisk": {
         "name": "Greater Basilisk",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Basilisk and Greater Basilisk"
+        "wikipage": "Basilisk and Greater Basilisk",
+        "sounds": {
+            "Attack": "GBASATTK",
+            "Defend": "GBASDFND",
+            "Death": "GBASKILL",
+            "Move": "GBASMOVE",
+            "Hurt": "GBASWNCE"
+        }
     },
     "sod.gorgon": {
         "name": "Gorgon",
@@ -649,13 +1325,27 @@
         "upgrades": [
             "sod.mightyGorgon"
         ],
-        "wikipage": "Gorgon and Mighty Gorgon"
+        "wikipage": "Gorgon and Mighty Gorgon",
+        "sounds": {
+            "Attack": "CGORATTK",
+            "Defend": "CGORDFND",
+            "Death": "CGORKILL",
+            "Move": "CGORMOVE",
+            "Hurt": "CGORWNCE"
+        }
     },
     "sod.mightyGorgon": {
         "name": "Mighty Gorgon",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Gorgon and Mighty Gorgon"
+        "wikipage": "Gorgon and Mighty Gorgon",
+        "sounds": {
+            "Attack": "BGORATTK",
+            "Defend": "BGORDFND",
+            "Death": "BGORKILL",
+            "Move": "BGORMOVE",
+            "Hurt": "BGORWNCE"
+        }
     },
     "sod.wyvern": {
         "name": "Wyvern",
@@ -663,13 +1353,27 @@
         "upgrades": [
             "sod.wyvernMonarch"
         ],
-        "wikipage": "Wyvern and Wyvern Monarch"
+        "wikipage": "Wyvern and Wyvern Monarch",
+        "sounds": {
+            "Attack": "WYVNATTK",
+            "Defend": "WYVNDFND",
+            "Death": "WYVNKILL",
+            "Move": "WYVNMOVE",
+            "Hurt": "WYVNWNCE"
+        }
     },
     "sod.wyvernMonarch": {
         "name": "Wyvern Monarch",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Wyvern and Wyvern Monarch"
+        "wikipage": "Wyvern and Wyvern Monarch",
+        "sounds": {
+            "Attack": "WYVMATTK",
+            "Defend": "WYVMDFND",
+            "Death": "WYVMKILL",
+            "Move": "WYVMMOVE",
+            "Hurt": "WYVMWNCE"
+        }
     },
     "sod.hydra": {
         "name": "Hydra",
@@ -677,13 +1381,27 @@
         "upgrades": [
             "sod.chaosHydra"
         ],
-        "wikipage": "Hydra and Chaos Hydra"
+        "wikipage": "Hydra and Chaos Hydra",
+        "sounds": {
+            "Attack": "HYDRATTK",
+            "Defend": "HYDRDFND",
+            "Death": "HYDRKILL",
+            "Move": "HYDRMOVE",
+            "Hurt": "HYDRWNCE"
+        }
     },
     "sod.chaosHydra": {
         "name": "Chaos Hydra",
         "faction": "sod.fortress",
         "upgrades": [],
-        "wikipage": "Hydra and Chaos Hydra"
+        "wikipage": "Hydra and Chaos Hydra",
+        "sounds": {
+            "Attack": "CHYDATTK",
+            "Defend": "CHYDDFND",
+            "Death": "CHYDKILL",
+            "Move": "CHYDMOVE",
+            "Hurt": "CHYDWNCE"
+        }
     },
     "sod.goblin": {
         "name": "Goblin",
@@ -691,13 +1409,27 @@
         "upgrades": [
             "sod.hobgoblin"
         ],
-        "wikipage": "Goblin and Hobgoblin"
+        "wikipage": "Goblin and Hobgoblin",
+        "sounds": {
+            "Attack": "GBLNATTK",
+            "Defend": "GBLNDFND",
+            "Death": "GBLNKILL",
+            "Move": "GBLNMOVE",
+            "Hurt": "GBLNWNCE"
+        }
     },
     "sod.hobgoblin": {
         "name": "Hobgoblin",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Goblin and Hobgoblin"
+        "wikipage": "Goblin and Hobgoblin",
+        "sounds": {
+            "Attack": "HGOBATTK",
+            "Defend": "HGOBDFND",
+            "Death": "HGOBKILL",
+            "Move": "HGOBMOVE",
+            "Hurt": "HGOBWNCE"
+        }
     },
     "sod.wolfRider": {
         "name": "Wolf Rider",
@@ -705,13 +1437,27 @@
         "upgrades": [
             "sod.wolfRaider"
         ],
-        "wikipage": "Wolf Rider and Wolf Raider"
+        "wikipage": "Wolf Rider and Wolf Raider",
+        "sounds": {
+            "Attack": "GWRDATTK",
+            "Defend": "GWRDDFND",
+            "Death": "GWRDKILL",
+            "Move": "GWRDMOVE",
+            "Hurt": "GWRDWNCE"
+        }
     },
     "sod.wolfRaider": {
         "name": "Wolf Raider",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Wolf Rider and Wolf Raider"
+        "wikipage": "Wolf Rider and Wolf Raider",
+        "sounds": {
+            "Attack": "HGWRATTK",
+            "Defend": "HGWRDFND",
+            "Death": "HGWRKILL",
+            "Move": "HGWRMOVE",
+            "Hurt": "HGWRWNCE"
+        }
     },
     "sod.orc": {
         "name": "Orc",
@@ -719,13 +1465,29 @@
         "upgrades": [
             "sod.orcChieftain"
         ],
-        "wikipage": "Orc and Orc Chieftain"
+        "wikipage": "Orc and Orc Chieftain",
+        "sounds": {
+            "Attack": "OORCATTK",
+            "Defend": "OORCDFND",
+            "Death": "OORCKILL",
+            "Move": "OORCMOVE",
+            "Shoot": "OORCSHOT",
+            "Hurt": "OORCWNCE"
+        }
     },
     "sod.orcChieftain": {
         "name": "Orc Chieftain",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Orc and Orc Chieftain"
+        "wikipage": "Orc and Orc Chieftain",
+        "sounds": {
+            "Attack": "ORCCATTK",
+            "Defend": "ORCCDFND",
+            "Death": "ORCCKILL",
+            "Move": "ORCCMOVE",
+            "Shoot": "ORCCSHOT",
+            "Hurt": "ORCCWNCE"
+        }
     },
     "sod.ogre": {
         "name": "Ogre",
@@ -733,13 +1495,28 @@
         "upgrades": [
             "sod.ogreMage"
         ],
-        "wikipage": "Ogre and Ogre Mage"
+        "wikipage": "Ogre and Ogre Mage",
+        "sounds": {
+            "Attack": "OGREATTK",
+            "Defend": "OGREDFND",
+            "Death": "OGREKILL",
+            "Move": "OGREMOVE",
+            "Hurt": "OGREWNCE"
+        }
     },
     "sod.ogreMage": {
         "name": "Ogre Mage",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Ogre and Ogre Mage"
+        "wikipage": "Ogre and Ogre Mage",
+        "sounds": {
+            "Attack": "OGRMATTK",
+            "Defend": "OGRMDFND",
+            "Death": "OGRMKILL",
+            "Move": "OGRMMOVE",
+            "Shoot": "OGRMSHOT",
+            "Hurt": "OGRMWNCE"
+        }
     },
     "sod.roc": {
         "name": "Roc",
@@ -747,13 +1524,27 @@
         "upgrades": [
             "sod.thunderbird"
         ],
-        "wikipage": "Roc and Thunderbird"
+        "wikipage": "Roc and Thunderbird",
+        "sounds": {
+            "Attack": "ROCCATTK",
+            "Defend": "ROCCDFND",
+            "Death": "ROCCKILL",
+            "Move": "ROCCMOVE",
+            "Hurt": "ROCCWNCE"
+        }
     },
     "sod.thunderbird": {
         "name": "Thunderbird",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Roc and Thunderbird"
+        "wikipage": "Roc and Thunderbird",
+        "sounds": {
+            "Attack": "TBRDATTK",
+            "Defend": "TBRDDFND",
+            "Death": "TBRDKILL",
+            "Move": "TBRDMOVE",
+            "Hurt": "TBRDWNCE"
+        }
     },
     "sod.cyclops": {
         "name": "Cyclops",
@@ -761,13 +1552,29 @@
         "upgrades": [
             "sod.cyclopsKing"
         ],
-        "wikipage": "Cyclops and Cyclops King"
+        "wikipage": "Cyclops and Cyclops King",
+        "sounds": {
+            "Attack": "CCYCATTK",
+            "Defend": "CCYCDFND",
+            "Death": "CCYCKILL",
+            "Move": "CCYCMOVE",
+            "Shoot": "CCYCSHOT",
+            "Hurt": "CCYCWNCE"
+        }
     },
     "sod.cyclopsKing": {
         "name": "Cyclops King",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Cyclops and Cyclops King"
+        "wikipage": "Cyclops and Cyclops King",
+        "sounds": {
+            "Attack": "CYCLATTK",
+            "Defend": "CYCLDFND",
+            "Death": "CYCLKILL",
+            "Move": "CYCLMOVE",
+            "Shoot": "CYCLSHOT",
+            "Hurt": "CYCLWNCE"
+        }
     },
     "sod.behemoth": {
         "name": "Behemoth",
@@ -775,13 +1582,27 @@
         "upgrades": [
             "sod.ancientBehemoth"
         ],
-        "wikipage": "Behemoth and Ancient Behemoth"
+        "wikipage": "Behemoth and Ancient Behemoth",
+        "sounds": {
+            "Attack": "YBMHATTK",
+            "Defend": "YBMHDFND",
+            "Death": "YBMHKILL",
+            "Move": "YBMHMOVE",
+            "Hurt": "YBMHWNCE"
+        }
     },
     "sod.ancientBehemoth": {
         "name": "Ancient Behemoth",
         "faction": "sod.stronghold",
         "upgrades": [],
-        "wikipage": "Behemoth and Ancient Behemoth"
+        "wikipage": "Behemoth and Ancient Behemoth",
+        "sounds": {
+            "Attack": "BMTHATTK",
+            "Defend": "BMTHDFND",
+            "Death": "BMTHKILL",
+            "Move": "BMTHMOVE",
+            "Hurt": "BMTHWNCE"
+        }
     },
     "sod.pixie": {
         "name": "Pixie",
@@ -789,13 +1610,27 @@
         "upgrades": [
             "sod.sprite"
         ],
-        "wikipage": "Pixie and Sprite"
+        "wikipage": "Pixie and Sprite",
+        "sounds": {
+            "Attack": "PIXIATTK",
+            "Defend": "PIXIDFND",
+            "Death": "PIXIKILL",
+            "Move": "PIXIMOVE",
+            "Hurt": "PIXIWNCE"
+        }
     },
     "sod.sprite": {
         "name": "Sprite",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Pixie and Sprite"
+        "wikipage": "Pixie and Sprite",
+        "sounds": {
+            "Attack": "SPRTATTK",
+            "Defend": "SPRTDFND",
+            "Death": "SPRTKILL",
+            "Move": "SPRTMOVE",
+            "Hurt": "SPRTWNCE"
+        }
     },
     "sod.airElemental": {
         "name": "Air Elemental",
@@ -803,13 +1638,28 @@
         "upgrades": [
             "sod.stormElemental"
         ],
-        "wikipage": "Air Elemental and Storm Elemental"
+        "wikipage": "Air Elemental and Storm Elemental",
+        "sounds": {
+            "Attack": "AELMATTK",
+            "Defend": "AELMDFND",
+            "Death": "AELMKILL",
+            "Move": "AELMMOVE",
+            "Hurt": "AELMWNCE"
+        }
     },
     "sod.stormElemental": {
         "name": "Storm Elemental",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Air Elemental and Storm Elemental"
+        "wikipage": "Air Elemental and Storm Elemental",
+        "sounds": {
+            "Attack": "STORATTK",
+            "Defend": "STORDFND",
+            "Death": "STORKILL",
+            "Move": "STORMOVE",
+            "Shoot": "STORSHOT",
+            "Hurt": "STORWNCE"
+        }
     },
     "sod.waterElemental": {
         "name": "Water Elemental",
@@ -817,13 +1667,28 @@
         "upgrades": [
             "sod.iceElemental"
         ],
-        "wikipage": "Water Elemental and Ice Elemental"
+        "wikipage": "Water Elemental and Ice Elemental",
+        "sounds": {
+            "Attack": "WELMATTK",
+            "Defend": "WELMDFND",
+            "Death": "WELMKILL",
+            "Move": "WELMMOVE",
+            "Hurt": "WELMWNCE"
+        }
     },
     "sod.iceElemental": {
         "name": "Ice Elemental",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Water Elemental and Ice Elemental"
+        "wikipage": "Water Elemental and Ice Elemental",
+        "sounds": {
+            "Attack": "ICELATTK",
+            "Defend": "ICELDFND",
+            "Death": "ICELKILL",
+            "Move": "ICELMOVE",
+            "Shoot": "ICELSHOT",
+            "Hurt": "ICELWNCE"
+        }
     },
     "sod.fireElemental": {
         "name": "Fire Elemental",
@@ -831,13 +1696,27 @@
         "upgrades": [
             "sod.energyElemental"
         ],
-        "wikipage": "Fire Elemental and Energy Elemental"
+        "wikipage": "Fire Elemental and Energy Elemental",
+        "sounds": {
+            "Attack": "FELMATTK",
+            "Defend": "FELMDFND",
+            "Death": "FELMKILL",
+            "Move": "FELMMOVE",
+            "Hurt": "FELMWNCE"
+        }
     },
     "sod.energyElemental": {
         "name": "Energy Elemental",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Fire Elemental and Energy Elemental"
+        "wikipage": "Fire Elemental and Energy Elemental",
+        "sounds": {
+            "Attack": "ENERATTK",
+            "Defend": "ENERDFND",
+            "Death": "ENERKILL",
+            "Move": "ENERMOVE",
+            "Hurt": "ENERWNCE"
+        }
     },
     "sod.earthElemental": {
         "name": "Earth Elemental",
@@ -845,13 +1724,27 @@
         "upgrades": [
             "sod.magmaElemental"
         ],
-        "wikipage": "Earth Elemental and Magma Elemental"
+        "wikipage": "Earth Elemental and Magma Elemental",
+        "sounds": {
+            "Attack": "EELMATTK",
+            "Defend": "EELMDFND",
+            "Death": "EELMKILL",
+            "Move": "EELMMOVE",
+            "Hurt": "EELMWNCE"
+        }
     },
     "sod.magmaElemental": {
         "name": "Magma Elemental",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Earth Elemental and Magma Elemental"
+        "wikipage": "Earth Elemental and Magma Elemental",
+        "sounds": {
+            "Attack": "MAGMATTK",
+            "Defend": "MAGMDFND",
+            "Death": "MAGMKILL",
+            "Move": "MAGMMOVE",
+            "Hurt": "MAGMWNCE"
+        }
     },
     "sod.psychicElemental": {
         "name": "Psychic Elemental",
@@ -859,13 +1752,27 @@
         "upgrades": [
             "sod.magicElemental"
         ],
-        "wikipage": "Psychic Elemental and Magic Elemental"
+        "wikipage": "Psychic Elemental and Magic Elemental",
+        "sounds": {
+            "Attack": "PSYCATTK",
+            "Defend": "PSYCDFND",
+            "Death": "PSYCKILL",
+            "Move": "PSYCMOVE",
+            "Hurt": "PSYCWNCE"
+        }
     },
     "sod.magicElemental": {
         "name": "Magic Elemental",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Psychic Elemental and Magic Elemental"
+        "wikipage": "Psychic Elemental and Magic Elemental",
+        "sounds": {
+            "Attack": "MGELATTK",
+            "Defend": "MGELDFND",
+            "Death": "MGELKILL",
+            "Move": "MGELMOVE",
+            "Hurt": "MGELWNCE"
+        }
     },
     "sod.firebird": {
         "name": "Firebird",
@@ -873,13 +1780,27 @@
         "upgrades": [
             "sod.phoenix"
         ],
-        "wikipage": "Firebird and Phoenix"
+        "wikipage": "Firebird and Phoenix",
+        "sounds": {
+            "Attack": "FIRBATTK",
+            "Defend": "FIRBDFND",
+            "Death": "FIRBKILL",
+            "Move": "FIRBMOVE",
+            "Hurt": "FIRBWNCE"
+        }
     },
     "sod.phoenix": {
         "name": "Phoenix",
         "faction": "sod.conflux",
         "upgrades": [],
-        "wikipage": "Firebird and Phoenix"
+        "wikipage": "Firebird and Phoenix",
+        "sounds": {
+            "Attack": "PHOEATTK",
+            "Defend": "PHOEDFND",
+            "Death": "PHOEKILL",
+            "Move": "PHOEMOVE",
+            "Hurt": "PHOEWNCE"
+        }
     },
     "hota.nymph": {
         "name": "Nymph",
@@ -887,13 +1808,27 @@
         "upgrades": [
             "hota.oceanid"
         ],
-        "wikipage": "Nymph and Oceanid"
+        "wikipage": "Nymph and Oceanid",
+        "sounds": {
+            "Attack": "NIMPATTK",
+            "Defend": "NIMPDFND",
+            "Death": "NIMPKILL",
+            "Move": "NIMPMOVE",
+            "Hurt": "NIMPWNCE"
+        }
     },
     "hota.oceanid": {
         "name": "Oceanid",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Nymph and Oceanid"
+        "wikipage": "Nymph and Oceanid",
+        "sounds": {
+            "Attack": "NIMPATTK",
+            "Defend": "NIMPDFND",
+            "Death": "NIMPKILL",
+            "Move": "NIMPMOVE",
+            "Hurt": "NIMPWNCE"
+        }
     },
     "hota.crewMate": {
         "name": "Crew Mate",
@@ -901,13 +1836,27 @@
         "upgrades": [
             "hota.seaman"
         ],
-        "wikipage": "Crew Mate and Seaman"
+        "wikipage": "Crew Mate and Seaman",
+        "sounds": {
+            "Attack": "SAYLATTK",
+            "Defend": "SAYLDFND",
+            "Death": "SAYLKILL",
+            "Move": "SAYLMOVE",
+            "Hurt": "SAYLWNCE"
+        }
     },
     "hota.seaman": {
         "name": "Seaman",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Crew Mate and Seaman"
+        "wikipage": "Crew Mate and Seaman",
+        "sounds": {
+            "Attack": "SAYLATTK",
+            "Defend": "SAYLDFND",
+            "Death": "SAYLKILL",
+            "Move": "SAYLMOVE",
+            "Hurt": "SAYLWNCE"
+        }
     },
     "hota.pirate": {
         "name": "Pirate",
@@ -915,7 +1864,15 @@
         "upgrades": [
             "hota.corsair"
         ],
-        "wikipage": "Pirate, Corsair, and Sea Dog"
+        "wikipage": "Pirate, Corsair, and Sea Dog",
+        "sounds": {
+            "Attack": "PIRTATTK",
+            "Defend": "PIRTDFND",
+            "Death": "PIRTKILL",
+            "Move": "PIRTMOVE",
+            "Shoot": "PIRTSHOT",
+            "Hurt": "PIRTWNCE"
+        }
     },
     "hota.corsair": {
         "name": "Corsair",
@@ -923,13 +1880,29 @@
         "upgrades": [
             "hota.seaDog"
         ],
-        "wikipage": "Pirate, Corsair, and Sea Dog"
+        "wikipage": "Pirate, Corsair, and Sea Dog",
+        "sounds": {
+            "Attack": "PIRTATTK",
+            "Defend": "PIRTDFND",
+            "Death": "PIRTKILL",
+            "Move": "PIRTMOVE",
+            "Shoot": "PIRTSHOT",
+            "Hurt": "PIRTWNCE"
+        }
     },
     "hota.seaDog": {
         "name": "Sea Dog",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Pirate, Corsair, and Sea Dog"
+        "wikipage": "Pirate, Corsair, and Sea Dog",
+        "sounds": {
+            "Attack": "PIRTATTK",
+            "Defend": "PIRTDFND",
+            "Death": "PIRTKILL",
+            "Move": "PIRTMOVE",
+            "Shoot": "PIRTSHOT",
+            "Hurt": "PIRTWNCE"
+        }
     },
     "hota.stormbird": {
         "name": "Stormbird",
@@ -937,13 +1910,27 @@
         "upgrades": [
             "hota.ayssid"
         ],
-        "wikipage": "Stormbird and Ayssid"
+        "wikipage": "Stormbird and Ayssid",
+        "sounds": {
+            "Attack": "ASSIATTK",
+            "Defend": "ASSIDFND",
+            "Death": "ASSIKILL",
+            "Move": "ASSIMOVE",
+            "Hurt": "ASSIWNCE"
+        }
     },
     "hota.ayssid": {
         "name": "Ayssid",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Stormbird and Ayssid"
+        "wikipage": "Stormbird and Ayssid",
+        "sounds": {
+            "Attack": "ASSIATTK",
+            "Defend": "ASSIDFND",
+            "Death": "ASSIKILL",
+            "Move": "ASSIMOVE",
+            "Hurt": "ASSIWNCE"
+        }
     },
     "hota.seaWitch": {
         "name": "Sea Witch",
@@ -951,13 +1938,29 @@
         "upgrades": [
             "hota.sorceress"
         ],
-        "wikipage": "Sea Witch and Sorceress"
+        "wikipage": "Sea Witch and Sorceress",
+        "sounds": {
+            "Attack": "SORCATTK",
+            "Defend": "SORCDFND",
+            "Death": "SORCKILL",
+            "Move": "SORCMOVE",
+            "Shoot": "SORCSHOT",
+            "Hurt": "SORCWNCE"
+        }
     },
     "hota.sorceress": {
         "name": "Sorceress",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Sea Witch and Sorceress"
+        "wikipage": "Sea Witch and Sorceress",
+        "sounds": {
+            "Attack": "SORCATTK",
+            "Defend": "SORCDFND",
+            "Death": "SORCKILL",
+            "Move": "SORCMOVE",
+            "Shoot": "SORCSHOT",
+            "Hurt": "SORCWNCE"
+        }
     },
     "hota.nix": {
         "name": "Nix",
@@ -965,13 +1968,27 @@
         "upgrades": [
             "hota.nixWarrior"
         ],
-        "wikipage": "Nix and Nix Warrior"
+        "wikipage": "Nix and Nix Warrior",
+        "sounds": {
+            "Attack": "NIXXATTK",
+            "Defend": "NIXXDFND",
+            "Death": "NIXXKILL",
+            "Move": "NIXXMOVE",
+            "Hurt": "NIXXWNCE"
+        }
     },
     "hota.nixWarrior": {
         "name": "Nix Warrior",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Nix and Nix Warrior"
+        "wikipage": "Nix and Nix Warrior",
+        "sounds": {
+            "Attack": "NIXXATTK",
+            "Defend": "NIXXDFND",
+            "Death": "NIXXKILL",
+            "Move": "NIXXMOVE",
+            "Hurt": "NIXXWNCE"
+        }
     },
     "hota.seaSerpent": {
         "name": "Sea Serpent",
@@ -979,13 +1996,27 @@
         "upgrades": [
             "hota.haspid"
         ],
-        "wikipage": "Sea Serpent and Haspid"
+        "wikipage": "Sea Serpent and Haspid",
+        "sounds": {
+            "Attack": "ASPIATTK",
+            "Defend": "ASPIDFND",
+            "Death": "ASPIKILL",
+            "Move": "ASPIMOVE",
+            "Hurt": "ASPIWNCE"
+        }
     },
     "hota.haspid": {
         "name": "Haspid",
         "faction": "hota.cove",
         "upgrades": [],
-        "wikipage": "Sea Serpent and Haspid"
+        "wikipage": "Sea Serpent and Haspid",
+        "sounds": {
+            "Attack": "ASPIATTK",
+            "Defend": "ASPIDFND",
+            "Death": "ASPIKILL",
+            "Move": "ASPIMOVE",
+            "Hurt": "ASPIWNCE"
+        }
     },
     "hota.halfling": {
         "name": "Halfling",
@@ -993,13 +2024,29 @@
         "upgrades": [
             "hota.halflingGrenadier"
         ],
-        "wikipage": "Halfling and Halfling Grenadier"
+        "wikipage": "Halfling and Halfling Grenadier",
+        "sounds": {
+            "Attack": "HALFATTK",
+            "Defend": "HALFDFND",
+            "Death": "HALFKILL",
+            "Move": "HALFMOVE",
+            "Shoot": "HALFSHOT",
+            "Hurt": "HALFWNCE"
+        }
     },
     "hota.halflingGrenadier": {
         "name": "Halfling Grenadier",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Halfling and Halfling Grenadier"
+        "wikipage": "Halfling and Halfling Grenadier",
+        "sounds": {
+            "Attack": "HALFATTK",
+            "Defend": "HALFDFND",
+            "Death": "HALFKILL",
+            "Move": "HALFMOVE",
+            "Shoot": "HALGSHOT",
+            "Hurt": "HALFWNCE"
+        }
     },
     "hota.mechanic": {
         "name": "Mechanic",
@@ -1007,13 +2054,29 @@
         "upgrades": [
             "hota.engineer"
         ],
-        "wikipage": "Mechanic and Engineer"
+        "wikipage": "Mechanic and Engineer",
+        "sounds": {
+            "Attack": "MECHATTK",
+            "Defend": "MECHDFND",
+            "Death": "MECHKILL",
+            "Move": "MECHMOVE",
+            "Shoot": "MECHSHOT",
+            "Hurt": "MECHWNCE"
+        }
     },
     "hota.engineer": {
         "name": "Engineer",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Mechanic and Engineer"
+        "wikipage": "Mechanic and Engineer",
+        "sounds": {
+            "Attack": "MECHATTK",
+            "Defend": "MECHDFND",
+            "Death": "MECHKILL",
+            "Move": "MECHMOVE",
+            "Shoot": "MECHSHOT",
+            "Hurt": "MECHWNCE"
+        }
     },
     "hota.armadillo": {
         "name": "Armadillo",
@@ -1021,13 +2084,27 @@
         "upgrades": [
             "hota.bellwetherArmadillo"
         ],
-        "wikipage": "Armadillo and Bellwether Armadillo"
+        "wikipage": "Armadillo and Bellwether Armadillo",
+        "sounds": {
+            "Attack": "ARMAATTK",
+            "Defend": "ARMADFND",
+            "Death": "ARMAKILL",
+            "Move": "ARMAMOVE",
+            "Hurt": "ARMAWNCE"
+        }
     },
     "hota.bellwetherArmadillo": {
         "name": "Bellwether Armadillo",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Armadillo and Bellwether Armadillo"
+        "wikipage": "Armadillo and Bellwether Armadillo",
+        "sounds": {
+            "Attack": "ARMAATTK",
+            "Defend": "ARMADFND",
+            "Death": "ARMAKILL",
+            "Move": "ARMAMOVE",
+            "Hurt": "ARMAWNCE"
+        }
     },
     "hota.automaton": {
         "name": "Automaton",
@@ -1035,13 +2112,29 @@
         "upgrades": [
             "hota.sentinelAutomaton"
         ],
-        "wikipage": "Automaton and Sentinel Automaton"
+        "wikipage": "Automaton and Sentinel Automaton",
+        "sounds": {
+            "Attack": "AUTOATTK",
+            "Defend": "AUTODFND",
+            "Death": "AUTOKILL",
+            "Move": "AUTOMOVE",
+            "Hurt": "AUTOWNCE",
+            "Shoot": "AUTOSHOT"
+        }
     },
     "hota.sentinelAutomaton": {
         "name": "Sentinel Automaton",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Automaton and Sentinel Automaton"
+        "wikipage": "Automaton and Sentinel Automaton",
+        "sounds": {
+            "Attack": "AUTOATTK",
+            "Defend": "AUTODFND",
+            "Death": "AUTOKILL",
+            "Move": "AUTOMOVE",
+            "Hurt": "AUTOWNCE",
+            "Shoot": "AUTOSHOT"
+        }
     },
     "hota.sandworm": {
         "name": "Sandworm",
@@ -1049,13 +2142,27 @@
         "upgrades": [
             "hota.olgoiKhorkhoi"
         ],
-        "wikipage": "Sandworm and Olgoi-Khorkhoi"
+        "wikipage": "Sandworm and Olgoi-Khorkhoi",
+        "sounds": {
+            "Attack": "WORMATTK",
+            "Defend": "WORMDFND",
+            "Death": "WORMKILL",
+            "Move": "WORMMOVE",
+            "Hurt": "WORMWNCE"
+        }
     },
     "hota.olgoiKhorkhoi": {
         "name": "Olgoi-Khorkhoi",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Sandworm and Olgoi-Khorkhoi"
+        "wikipage": "Sandworm and Olgoi-Khorkhoi",
+        "sounds": {
+            "Attack": "WORMATTK",
+            "Defend": "WORMDFND",
+            "Death": "WORMKILL",
+            "Move": "WORMMOVE",
+            "Hurt": "WORMWNCE"
+        }
     },
     "hota.gunslinger": {
         "name": "Gunslinger",
@@ -1063,13 +2170,29 @@
         "upgrades": [
             "hota.bountyHunter"
         ],
-        "wikipage": "Gunslinger and Bounty Hunter"
+        "wikipage": "Gunslinger and Bounty Hunter",
+        "sounds": {
+            "Attack": "GUNSATTK",
+            "Defend": "GUNSDFND",
+            "Death": "GUNSKILL",
+            "Move": "GUNSMOVE",
+            "Shoot": "GUNSSHOT",
+            "Hurt": "GUNSWNCE"
+        }
     },
     "hota.bountyHunter": {
         "name": "Bounty Hunter",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Gunslinger and Bounty Hunter"
+        "wikipage": "Gunslinger and Bounty Hunter",
+        "sounds": {
+            "Attack": "GUNSATTK",
+            "Defend": "GUNSDFND",
+            "Death": "GUNSKILL",
+            "Move": "GUNSMOVE",
+            "Shoot": "GUNSSHOT",
+            "Hurt": "GUNSWNCE"
+        }
     },
     "hota.couatl": {
         "name": "Couatl",
@@ -1077,13 +2200,29 @@
         "upgrades": [
             "hota.crimsonCouatl"
         ],
-        "wikipage": "Couatl and Crimson Couatl"
+        "wikipage": "Couatl and Crimson Couatl",
+        "sounds": {
+            "Attack": "COTLATTK",
+            "Defend": "COTLDFND",
+            "Death": "COTLKILL",
+            "Move": "COTLMOVE",
+            "Shoot": "COTLSHOT",
+            "Hurt": "COTLWNCE"
+        }
     },
     "hota.crimsonCouatl": {
         "name": "Crimson Couatl",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Couatl and Crimson Couatl"
+        "wikipage": "Couatl and Crimson Couatl",
+        "sounds": {
+            "Attack": "CCOTATTK",
+            "Defend": "CCOTDFND",
+            "Death": "CCOTKILL",
+            "Move": "CCOTMOVE",
+            "Shoot": "CCOTSHOT",
+            "Hurt": "CCOTWNCE"
+        }
     },
     "hota.dreadnought": {
         "name": "Dreadnought",
@@ -1091,157 +2230,336 @@
         "upgrades": [
             "hota.juggernaut"
         ],
-        "wikipage": "Dreadnought and Juggernaut"
+        "wikipage": "Dreadnought and Juggernaut",
+        "sounds": {
+            "Attack": "DREDATTK",
+            "Defend": "DREDDFND",
+            "Death": "DREDKILL",
+            "Move": "DREDMOVE",
+            "Shoot": "DREDSHOT",
+            "Hurt": "DREDWNCE"
+        }
     },
     "hota.juggernaut": {
         "name": "Juggernaut",
         "faction": "hota.factory",
         "upgrades": [],
-        "wikipage": "Dreadnought and Juggernaut"
+        "wikipage": "Dreadnought and Juggernaut",
+        "sounds": {
+            "Attack": "DREDSHOT",
+            "Defend": "DREDDFND",
+            "Death": "DREDKILL",
+            "Move": "DREDMOVE",
+            "Shoot": "DREDSHOT",
+            "Hurt": "DREDWNCE"
+        }
     },
     "sod.peasant": {
         "name": "Peasant",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Peasant"
+        "wikipage": "Peasant",
+        "sounds": {
+            "Attack": "PSNTATTK",
+            "Defend": "PSNTDFND",
+            "Death": "PSNTKILL",
+            "Move": "PSNTMOVE",
+            "Hurt": "PSNTWNCE"
+        }
     },
     "sod.halfling": {
         "name": "Halfling",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Halfling"
+        "wikipage": "Halfling",
+        "sounds": {
+            "Attack": "HALFATTK",
+            "Defend": "HALFDFND",
+            "Death": "HALFKILL",
+            "Move": "HALFMOVE",
+            "Shoot": "HALFSHOT",
+            "Hurt": "HALFWNCE"
+        }
     },
     "sod.boar": {
         "name": "Boar",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Boar"
+        "wikipage": "Boar",
+        "sounds": {
+            "Attack": "BOARATTK",
+            "Defend": "BOARDFND",
+            "Death": "BOARKILL",
+            "Move": "BOARMOVE",
+            "Hurt": "BOARWNCE"
+        }
     },
     "sod.rogue": {
         "name": "Rogue",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Rogue"
+        "wikipage": "Rogue",
+        "sounds": {
+            "Attack": "ROGUATTK",
+            "Defend": "ROGUDFND",
+            "Death": "ROGUKILL",
+            "Move": "ROGUMOVE",
+            "Hurt": "ROGUWNCE"
+        }
     },
     "sod.nomad": {
         "name": "Nomad",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Nomad"
+        "wikipage": "Nomad",
+        "sounds": {
+            "Attack": "NMADATTK",
+            "Defend": "NMADDFND",
+            "Death": "NMADKILL",
+            "Move": "NMADMOVE",
+            "Hurt": "NMADWNCE"
+        }
     },
     "sod.mummy": {
         "name": "Mummy",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Mummy"
+        "wikipage": "Mummy",
+        "sounds": {
+            "Attack": "MUMYATTK",
+            "Defend": "MUMYDFND",
+            "Death": "MUMYKILL",
+            "Move": "MUMYMOVE",
+            "Hurt": "MUMYWNCE"
+        }
     },
     "sod.sharpshooter": {
         "name": "Sharpshooter",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Sharpshooter"
+        "wikipage": "Sharpshooter",
+        "sounds": {
+            "Attack": "HCRSATTK",
+            "Defend": "HCRSDFND",
+            "Death": "HCRSKILL",
+            "Move": "HCRSMOVE",
+            "Shoot": "HCRSSHOT",
+            "Hurt": "HCRSWNCE"
+        }
     },
     "sod.goldGolem": {
         "name": "Gold Golem",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": ""
+        "wikipage": "",
+        "sounds": {
+            "Attack": "GGLMATTK",
+            "Defend": "GGLMDFND",
+            "Death": "GGLMKILL",
+            "Move": "GGLMMOVE",
+            "Hurt": "GGLMWNCE"
+        }
     },
     "sod.troll": {
         "name": "Troll",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Troll"
+        "wikipage": "Troll",
+        "sounds": {
+            "Attack": "TRLLATTK",
+            "Defend": "TRLLDFND",
+            "Death": "TRLLKILL",
+            "Move": "TRLLMOVE",
+            "Hurt": "TRLLWNCE"
+        }
     },
     "sod.diamondGolem": {
         "name": "Diamond Golem",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Diamond Golem"
+        "wikipage": "Diamond Golem",
+        "sounds": {
+            "Attack": "DGLMATTK",
+            "Defend": "DGLMDFND",
+            "Death": "DGLMKILL",
+            "Move": "DGLMMOVE",
+            "Hurt": "DGLMWNCE"
+        }
     },
     "sod.enchanter": {
         "name": "Enchanter",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Enchanter"
+        "wikipage": "Enchanter",
+        "sounds": {
+            "Attack": "ENCHATTK",
+            "Defend": "ENCHDFND",
+            "Death": "ENCHKILL",
+            "Move": "ENCHMOVE",
+            "Shoot": "ENCHSHOT",
+            "Hurt": "ENCHWNCE"
+        }
     },
     "sod.faerieDragon": {
         "name": "Faerie Dragon",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Faerie Dragon"
+        "wikipage": "Faerie Dragon",
+        "sounds": {
+            "Attack": "FAERATTK",
+            "Defend": "FAERDFND",
+            "Death": "FAERKILL",
+            "Move": "FAERMOVE",
+            "Shoot": "FAERSHOT",
+            "Hurt": "FAERWNCE"
+        }
     },
     "sod.rustDragon": {
         "name": "Rust Dragon",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Rust Dragon"
+        "wikipage": "Rust Dragon",
+        "sounds": {
+            "Attack": "RUSTATTK",
+            "Defend": "RUSTDFND",
+            "Death": "RUSTKILL",
+            "Move": "RUSTMOVE",
+            "Hurt": "RUSTWNCE"
+        }
     },
     "sod.crystalDragon": {
         "name": "Crystal Dragon",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Crystal Dragon"
+        "wikipage": "Crystal Dragon",
+        "sounds": {
+            "Attack": "CRYSATTK",
+            "Defend": "CRYSDFND",
+            "Death": "CRYSKILL",
+            "Move": "CRYSMOVE",
+            "Hurt": "CRYSWNCE"
+        }
     },
     "sod.azureDragon": {
         "name": "Azure Dragon",
         "faction": "sod.neutral",
         "upgrades": [],
-        "wikipage": "Azure Dragon"
+        "wikipage": "Azure Dragon",
+        "sounds": {
+            "Attack": "AZURATTK",
+            "Defend": "AZURDFND",
+            "Death": "AZURKILL",
+            "Move": "AZURMOVE",
+            "Hurt": "AZURWNCE"
+        }
     },
     "hota.leprechaun": {
         "name": "Leprechaun",
         "faction": "hota.neutral",
         "upgrades": [],
-        "wikipage": "Leprechaun"
+        "wikipage": "Leprechaun",
+        "sounds": {
+            "Attack": "LEPRATTK",
+            "Defend": "LEPRDFND",
+            "Death": "LEPRKILL",
+            "Move": "LEPRMOVE",
+            "Shoot": "LEPRSHOT",
+            "Hurt": "LEPRWNCE"
+        }
     },
     "hota.satyr": {
         "name": "Satyr",
         "faction": "hota.neutral",
         "upgrades": [],
-        "wikipage": "Satyr"
+        "wikipage": "Satyr",
+        "sounds": {
+            "Attack": "SATYATTK",
+            "Defend": "SATYDFND",
+            "Death": "SATYKILL",
+            "Move": "SATYMOVE",
+            "Shoot": "SATYSHOT",
+            "Hurt": "SATYWNCE"
+        }
     },
     "hota.fangarm": {
         "name": "Fangarm",
         "faction": "hota.neutral",
         "upgrades": [],
-        "wikipage": "Fangarm"
+        "wikipage": "Fangarm",
+        "sounds": {
+            "Attack": "FNGRATTK",
+            "Defend": "FNGRDFND",
+            "Death": "FNGRKILL",
+            "Move": "FNGRMOVE",
+            "Summon": "FNGRSUMM",
+            "Hurt": "FNGRWNCE"
+        }
     },
     "hota.steelGolem": {
         "name": "Steel Golem",
         "faction": "hota.neutral",
         "upgrades": [],
-        "wikipage": "Steel Golem"
+        "wikipage": "Steel Golem",
+        "sounds": {
+            "Attack": "SLGLATTK",
+            "Defend": "SLGLDFND",
+            "Death": "SLGLKILL",
+            "Move": "SLGLMOVE",
+            "Hurt": "SLGLWNCE"
+        }
     },
     "sod.ammoCart": {
         "name": "Ammo Cart",
         "faction": "sod.special",
         "upgrades": [],
-        "wikipage": "War Machine#Ammo_Cart"
+        "wikipage": "War Machine#Ammo_Cart",
+        "sounds": {
+            "Death": "CARTKILL",
+            "Hurt": "CARTWNCE"
+        }
     },
     "sod.firstAidTent": {
         "name": "First Aid Tent",
         "faction": "sod.special",
         "upgrades": [],
-        "wikipage": "War Machine#First_Aid_Tent"
+        "wikipage": "War Machine#First_Aid_Tent",
+        "sounds": {
+            "Death": "FAIDKILL",
+            "Hurt": "FAIDWNCE"
+        }
     },
     "sod.ballista": {
         "name": "Ballista",
         "faction": "sod.special",
         "upgrades": [],
-        "wikipage": "War Machine#Ballista"
+        "wikipage": "War Machine#Ballista",
+        "sounds": {
+            "Death": "BALLKILL",
+            "Shoot": "BALLSHOT",
+            "Hurt": "BALLWNCE"
+        }
     },
     "sod.catapult": {
         "name": "Catapult",
         "faction": "sod.special",
         "upgrades": [],
-        "wikipage": "War Machine#Catapult"
+        "wikipage": "War Machine#Catapult",
+        "sounds": {
+            "Death": "CATAKILL",
+            "Shoot": "CATASHOT",
+            "Hurt": "CATAWNCE"
+        }
     },
     "hota.cannon": {
         "name": "Cannon",
         "faction": "hota.special",
         "upgrades": [],
-        "wikipage": "War Machine#Cannon"
+        "wikipage": "War Machine#Cannon",
+        "sounds": {
+            "Death": "cannkill",
+            "Shoot": "cannshot",
+            "Hurt": "cannwnce"
+        }
     },
     "unknown": {
         "name": "Unknown",

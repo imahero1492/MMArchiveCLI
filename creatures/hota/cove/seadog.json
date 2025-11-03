@@ -1,0 +1,101 @@
+{
+	"seaDog" : {
+		"name" : {
+			"singular" : "Sea Dog",
+			"plural" : "Sea Dogs"
+		},
+		"faction" : "cove",
+		"level" : 3,
+		"cost" : {
+			"gold" : 375
+		},
+		"speed" : 8,
+		"hitPoints" : 15,
+		"attack" : 12,
+		"defense" : 11,
+		"damage" : {
+			"min" : 3,
+			"max" : 7
+		},
+		"fightValue" : 379,
+		"aiValue" : 370,
+		"shots" : 10,
+		"growth" : 7,
+		"advMapAmount" : {
+			"min" : 12,
+			"max" : 18
+		},
+		"abilities" : {
+			"shooter" : {
+				"type" : "SHOOTER"
+			},
+			"noMeleePenalty" : {
+				"type" : "NO_MELEE_PENALTY"
+			},
+			"noRetaliation" : {
+				"type" : "BLOCKS_RETALIATION"
+			},
+			"accurateShotFullRange" : {
+				"type" : "DEATH_STARE",
+				"subtype" : "deathStareNoRangePenalty",
+				"val" : 3,
+				"addInfo" : "spell.accurateShot"
+			},
+			"accurateShotHalfRange" : {
+				"type" : "DEATH_STARE",
+				"subtype" : "deathStareRangePenalty",
+				"val" : 2,
+				"addInfo" : "spell.accurateShot"
+			}
+		},
+		"graphics" : {
+			"iconLarge" : "hota/cove/creatures/iconsLarge/seadog.png",
+			"iconSmall" : "hota/cove/creatures/iconsSmall/seadog.png",
+			"map" : "hota/cove/creatures/adventureMap/AVWPR3UP.def",
+			"mapMask" : [
+				"VVV",
+				"VAV"
+			],
+			"animation" : "hota/cove/creatures/battle/CPR3UP.def",
+			"animationTime" : {
+				"attack" : 1,
+				"idle" : 10,
+				"walk" : 1
+			},
+			"timeBetweenFidgets" : 1,
+			"mapAttackFromRight" : "hota/cove/creatures/AVWattak/AvWat302",
+			"mapAttackFromLeft" : "hota/cove/creatures/AVWattak/AvWat303",
+			"missile" : {
+				"projectile" : "hota/cove/creatures/battle/projectile/PPIRATE.def",
+				"attackClimaxFrame" : 5,
+				"frameAngles" : [
+					90,
+					72,
+					45,
+					27,
+					0,
+					-27,
+					-45,
+					-72,
+					-90
+				],
+				"offset" : {
+					"lowerX" : 28,
+					"lowerY" : 3,
+					"middleX" : 62,
+					"middleY" : -53,
+					"upperX" : 37,
+					"upperY" : -98
+				}
+			}
+		},
+		"sound" : {
+			"attack" : "hota/cove/creatures/pirate/PIRTATTK.wav",
+			"defend" : "hota/cove/creatures/pirate/PIRTDFND.wav",
+			"killed" : "hota/cove/creatures/pirate/PIRTKILL.wav",
+			"move" : "hota/cove/creatures/pirate/PIRTMOVE.wav",
+			"shoot" : "hota/cove/creatures/pirate/PIRTSHOT.wav",
+			"wince" : "hota/cove/creatures/pirate/PIRTWNCE.wav"
+		}
+	}
+}
