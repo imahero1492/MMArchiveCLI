@@ -10,6 +10,7 @@ from .RSLod_part4 import TRSLodBase, TRSLod as TRSLodBase_Original
 from .RSLod_graphics import *
 from PIL import Image
 import io
+import os
 
 
 class TRSLod(TRSLodBase_Original):
@@ -22,6 +23,16 @@ class TRSLod(TRSLodBase_Original):
         if isinstance(data, Image.Image):
             return self.add_bitmap(name, data, pal)
         
+        # Detect BMP files and load as Image for add_bitmap
+        if name.lower().endswith('.bmp'):
+            if isinstance(data, bytes):
+                img = Image.open(io.BytesIO(data))
+            elif hasattr(data, 'read'):
+                img = Image.open(data)
+            else:
+                img = data
+            return self.add_bitmap(name, img, pal)
+        
         # Handle raw data
         if isinstance(data, bytes):
             data = io.BytesIO(data)
@@ -30,6 +41,12 @@ class TRSLod(TRSLodBase_Original):
     
     def add_bitmap(self, name: str, img: Image.Image, pal: int = 0, keep_mipmaps: bool = True, bits: int = -1) -> int:
         """Add bitmap to LOD with automatic palette handling"""
+        
+        # Heroes LOD: convert to PCX format
+        if self.version == TRSLodVersion.RSLodHeroes:
+            packed_data = pack_pcx(img, keep_mipmaps)
+            pcx_name = os.path.splitext(name)[0] + '.pcx'
+            return super().add(pcx_name, io.BytesIO(packed_data), len(packed_data), pal)
         
         # Check if this LOD type supports bitmaps
         if self.version not in [TRSLodVersion.RSLodBitmaps, TRSLodVersion.RSLodIcons, 

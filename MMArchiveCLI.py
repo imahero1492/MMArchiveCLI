@@ -11,7 +11,7 @@ from pathlib import Path
 from src.RSLod_complete import *
 from src.RSDef import TRSDefWrapper
 
-CLI_VERSION = '1.3.9-py'
+CLI_VERSION = '1.4.0-py'
 
 _def_config_cache = None
 
