@@ -23,8 +23,8 @@ class TRSLod(TRSLodBase_Original):
         if isinstance(data, Image.Image):
             return self.add_bitmap(name, data, pal)
         
-        # Detect BMP files and load as Image for add_bitmap
-        if name.lower().endswith('.bmp'):
+        # Detect BMP and PCX files - load as Image for add_bitmap
+        if name.lower().endswith(('.bmp', '.pcx')):
             if isinstance(data, bytes):
                 img = Image.open(io.BytesIO(data))
             elif hasattr(data, 'read'):
