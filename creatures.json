@@ -1153,7 +1153,7 @@
             "sod.efreetSultan"
         ],
         "wikipage": "Efreeti and Efreet Sultan",
-        "sound" :
+        "sounds" :
 		{
 			"Attack": "EFRTATTK",
 			"Defend": "EFRTDFND",
