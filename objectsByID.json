@@ -13041,7 +13041,8 @@
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way2"
+    "name": "Monolith Two Way2",
+    "nameHotA": "Brown Two Way Monolith"
   },
   "avxmn2p0": {
     "sub_type": "visitable",
@@ -13083,7 +13084,8 @@
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way4"
+    "name": "Monolith Two Way4",
+    "nameHotA": "Orange Two Way Monolith"
   },
   "avxmn4i0": {
     "sub_type": "visitable",
@@ -13104,84 +13106,96 @@
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way5"
+    "name": "Monolith Two Way5",
+    "nameHotA": "Green Two Way Portal"
   },
   "avxmn5i0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Entrance5"
+    "name": "Monolith One Way Entrance5",
+    "nameHotA": "Purple Portal One Way Entrance"
   },
   "avxmn5o0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Exit5"
+    "name": "Monolith One Way Exit5",
+    "nameHotA": "Purple Portal One Way Exit"
   },
   "avxmn6b0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way6"
+    "name": "Monolith Two Way6",
+    "nameHotA": "Yellow Two Way Portal"
   },
   "avxmn6i0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Entrance6"
+    "name": "Monolith One Way Entrance6",
+    "nameHotA": "Orange Portal One Way Entrance"
   },
   "avxmn6o0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Exit6"
+    "name": "Monolith One Way Exit6",
+    "nameHotA": "Orange Portal One Way Exit"
   },
   "avxmn7b0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way7"
+    "name": "Monolith Two Way7",
+    "nameHotA": "Red Two Way Portal"
   },
   "avxmn7i0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Entrance7"
+    "name": "Monolith One Way Entrance7",
+    "nameHotA": "Red Portal One Way Entrance"
   },
   "avxmn7o0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Exit7"
+    "name": "Monolith One Way Exit7",
+    "nameHotA": "Red Portal One Way Exit"
   },
   "avxmn8b0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith Two Way8"
+    "name": "Monolith Two Way8",
+    "nameHotA": "Cyan Two Way Portal"
   },
   "avxmn8i0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Entrance8"
+    "name": "Monolith One Way Entrance8",
+    "nameHotA": "Cyan Portal One Way Entrance"
   },
   "avxmn8o0": {
     "sub_type": "visitable",
     "def_type": [
       "3"
     ],
-    "name": "Monolith One Way Exit8"
+    "name": "Monolith One Way Exit8",
+    "nameHotA": "Cyan Portal One Way Exit"
   },
   "avxmn9b0": {
     "sub_type": "visitable",
