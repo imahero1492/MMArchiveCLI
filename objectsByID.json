@@ -12313,7 +12313,7 @@
       "3"
     ],
     "name": "Den of Thieves (snow)",
-    "nameHotA": "Den of Thieves (snow)"
+    "nameHotA": "Den of Thieves (HotA) (snow)"
   },
   "avxdent": {
     "sub_type": "visitable",
@@ -12977,7 +12977,8 @@
     "def_type": [
       "3"
     ],
-    "name": "Pink Monolith One Way Entrance"
+    "name": "Monolith One Way Entrance2",
+    "nameHotA": "Pink Monolith One Way Entrance"
   },
   "avxmn1t0": {
     "sub_type": "visitable",
