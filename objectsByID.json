@@ -3407,7 +3407,6 @@
     "name": "Kennels-dwelling"
   },
   "avghydr0": {
-    "nameHotA": "Hydra Pond (HotA)-dwelling",
     "sub_type": "creature dwelling",
     "def_type": [
       "3"
